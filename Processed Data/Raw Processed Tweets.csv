@@ -1,0 +1,761 @@
+,time,tweet,reformat_time,flair_sentiment,textblob_sentiment,nltk_sentiment,BTC in tweet,DOGE in tweet,BTC_in_tweet,DOGE_in_tweet
+0,2021-07-07T18:48:11.000Z,Supersonic shock wave,2021-07-07 19:00:00,0.9399533271789551,0.0,-0.3818,0,0,0,0
+1,2021-07-07T18:46:53.000Z,https://t.co/O3BGaFuMDO,2021-07-07 19:00:00,-0.7084774374961853,0.0,0.0,0,0,0,0
+2,2021-07-07T16:58:11.000Z,High res landing Falcon landing video https://t.co/8CPuH87JYv,2021-07-07 17:00:00,0.9981196522712708,0.16,0.0,0,0,0,0
+3,2021-07-06T22:09:32.000Z,https://t.co/TQZ9QvcwH1,2021-07-06 23:00:00,0.8551979064941406,0.0,0.0,0,0,0,0
+4,2021-07-05T07:12:04.000Z,Free Britney,2021-07-05 08:00:00,-0.7346295118331909,0.4,0.5106,0,0,0,0
+5,2021-07-04T18:06:48.000Z,Happy 4th to all!,2021-07-04 19:00:00,0.9971248507499695,1.0,0.6114,0,0,0,0
+6,2021-07-04T17:59:19.000Z,Bless America https://t.co/QNagk4PArb,2021-07-04 18:00:00,0.9953908920288086,0.0,0.4215,0,0,0,0
+7,2021-07-03T21:23:23.000Z,New SpaceX Starlink cover shows transfer orbit from Earth to Mars https://t.co/vwWeuhWCoP,2021-07-03 22:00:00,0.6292093992233276,0.13636363636363635,0.0,0,0,0,0
+8,2021-07-02T13:20:14.000Z,https://t.co/oGKHhHROQa dogecoin polytopia going up,2021-07-02 14:00:00,-0.9911816120147705,0.0,0.0,0,0,0,1
+9,2021-07-02T13:09:28.000Z,"Congrats Tesla Team on over 200,000 car built &amp; delivered in Q2, despite many challenges!!",2021-07-02 14:00:00,0.9995212554931641,0.78125,0.5806,0,0,0,0
+10,2021-07-02T09:03:21.000Z,https://t.co/g9F1p0bpr8,2021-07-02 10:00:00,0.9472867846488953,0.0,0.0,0,0,0,0
+11,2021-07-01T18:44:25.000Z,Super Heavy on road &amp; 7th Tower segment added https://t.co/SJIHA3BLhL,2021-07-01 19:00:00,0.5353355407714844,0.06666666666666665,0.5994,0,0,0,0
+12,2021-07-01T09:57:18.000Z,Super Heavy moves tomorrow https://t.co/qHG1SYO46S,2021-07-01 10:00:00,0.9960368275642395,0.06666666666666665,0.5994,0,0,0,0
+13,2021-07-01T09:24:21.000Z,"Baby Doge, doo, doo, doo, doo, doo,
+Baby Doge, doo, doo, doo, doo, doo,
+Baby Doge, doo, doo, doo, doo, doo,
+Baby Doge",2021-07-01 10:00:00,0.992202639579773,0.0,0.0,0,0,0,1
+14,2021-07-01T08:43:41.000Z,Release the Doge! https://t.co/9bXCWQLIhu you come to me at runtime to tell me the code you are executing does not compile,2021-07-01 09:00:00,-0.9999593496322632,0.0,0.0,0,0,0,1
+15,2021-07-01T08:42:11.000Z,Stop gendering memes … I mean mimes,2021-07-01 09:00:00,-0.9632781147956848,-0.3125,-0.296,0,0,0,0
+16,2021-06-30T20:11:10.000Z,"Rapidly Reusable Rockets, R R R 🏴‍☠️",2021-06-30 21:00:00,0.9997097849845886,0.0,0.0,0,0,0,0
+17,2021-06-28T20:25:03.000Z,Thanks for all the happy birthday wishes!,2021-06-28 21:00:00,0.9862602353096008,0.6,0.8172,0,0,0,0
+18,2021-06-27T14:11:23.000Z,https://t.co/HStnXM0zmn,2021-06-27 15:00:00,0.9067499041557312,0.0,0.0,0,0,0,0
+19,2021-06-25T22:58:58.000Z,"All 72 orbital planes activate in August, plus many other improvements, enabling global coverage, except for polar regions, which will take another 6 months",2021-06-25 23:00:00,0.9972105622291565,0.07291666666666667,0.3182,0,0,0,0
+20,2021-06-25T22:51:28.000Z,"Starlink simultaneously active users just exceeded the strategically important threshold of 69,420 last night!",2021-06-25 23:00:00,-0.9804782271385193,0.0888888888888889,0.5848,0,0,0,0
+21,2021-06-25T11:03:04.000Z,My Shiba Inu will be named Floki,2021-06-25 12:00:00,0.9961807727813721,0.0,0.0,0,0,0,1
+22,2021-06-25T10:42:24.000Z,Timing is everything https://t.co/B6HDB5kS4G,2021-06-25 11:00:00,0.7820146083831787,0.0,0.0,0,0,0,0
+23,2021-06-25T02:11:52.000Z,“That’s not funny!” – Bitcoin maxis,2021-06-25 03:00:00,-0.9995346069335938,-0.15625,0.0,0,0,1,0
+24,2021-06-25T02:10:31.000Z,How many Bitcoin maxis does it take to screw in a lightbulb?,2021-06-25 03:00:00,-0.9998530149459839,0.5,-0.1027,0,0,1,0
+25,2021-06-24T01:10:10.000Z,Shout out to the awesome Tesla global team. Thanks for working so hard to make Tesla successful!,2021-06-24 02:00:00,0.9989560842514038,0.36916666666666664,0.8814,0,0,0,0
+26,2021-06-21T18:59:34.000Z,"Looking at holding Tesla AI Day in about a month or so. Will go over progress with Tesla AI software &amp; hardware, both training &amp; inference. Purpose is recruiting.",2021-06-21 19:00:00,-0.999721109867096,0.0,0.4215,0,0,0,0
+27,2021-06-20T20:19:20.000Z,Happy Father’s Day!,2021-06-20 21:00:00,0.9964524507522583,1.0,0.6114,0,0,0,0
+28,2021-06-17T18:47:05.000Z,Real pic of 2 ships next to Starbase Tiki Bar on right https://t.co/E4awziEdDQ,2021-06-17 19:00:00,0.818386971950531,0.1619047619047619,0.0,0,0,0,0
+29,2021-06-16T22:37:20.000Z,Let’s just skip original video games &amp; movies &amp; go straight to the sequel,2021-06-16 23:00:00,-0.999923825263977,0.2875,0.4939,0,0,0,0
+30,2021-06-15T08:06:24.000Z,From the top of Starbase high bay https://t.co/kRtJBrwrqW,2021-06-15 09:00:00,0.9944504499435425,0.33,0.2023,0,0,0,0
+31,2021-06-15T07:47:35.000Z,Stacking Super Heavy Aft Section https://t.co/itydacQ4hM,2021-06-15 08:00:00,0.9884571433067322,0.06666666666666665,0.5994,0,0,0,0
+32,2021-06-14T08:22:48.000Z,K is Kindred,2021-06-14 09:00:00,0.9976886510848999,0.0,0.0,0,0,0,0
+33,2021-06-14T08:21:46.000Z,Could turn out to be one big Philip K Dick joke in the end,2021-06-14 09:00:00,-0.9532395601272583,0.0,-0.2732,0,0,0,0
+34,2021-06-14T08:13:50.000Z,"Pluto takes 248 years to orbit the sun, but Uranus only takes 84",2021-06-14 09:00:00,-0.6293628215789795,0.0,0.0,0,0,0,0
+35,2021-06-14T05:04:50.000Z,!! https://t.co/3H9gMEmSLF,2021-06-14 06:00:00,0.8100054860115051,0.0,0.0,0,0,0,0
+36,2021-06-14T04:02:55.000Z,This is true https://t.co/72u3SrBf6U,2021-06-14 05:00:00,0.9907044768333435,0.35,0.4215,0,0,0,0
+37,2021-06-14T04:01:27.000Z,Our Soul Dichotomy https://t.co/D4PC5XK2VK,2021-06-14 05:00:00,-0.9907183051109314,0.0,0.0,0,0,0,0
+38,2021-06-13T06:20:10.000Z,Esoteric meme of the day https://t.co/ELGmeLEXRE,2021-06-13 07:00:00,0.9985570311546326,0.0,0.0,0,0,0,0
+39,2021-06-11T06:40:03.000Z,Plaid release event https://t.co/TxIHXnuw9A,2021-06-11 07:00:00,-0.9703727960586548,0.0,0.0,0,0,0,0
+40,2021-06-11T04:47:43.000Z,"Most amount of fun on 4 wheels!
+Pure joy on tap whenever u want.",2021-06-11 05:00:00,0.9994365572929382,0.47232142857142856,0.8383,0,0,0,0
+41,2021-06-11T04:45:32.000Z,Order Tesla Model S Plaid at https://t.co/LuUhICqQEI,2021-06-11 05:00:00,-0.9698012471199036,0.0,0.0,0,0,0,0
+42,2021-06-06T20:48:20.000Z,0 to 60mph in under 2 secs. Quickest production car ever made of any kind. Has to be felt to be believed.,2021-06-06 21:00:00,0.9999682903289795,0.6,0.5267,0,0,0,0
+43,2021-06-06T20:46:19.000Z,"Plaid+ is canceled. No need, as Plaid is just so good.",2021-06-06 21:00:00,0.9876402020454407,0.7,0.3697,0,0,0,0
+44,2021-06-06T20:45:13.000Z,Model S goes to Plaid speed this week,2021-06-06 21:00:00,0.9216861724853516,0.0,0.0,0,0,0,0
+45,2021-06-06T11:07:47.000Z,https://t.co/anHPlBpGza,2021-06-06 12:00:00,0.688044548034668,0.0,0.0,0,0,0,0
+46,2021-06-06T10:58:55.000Z,https://t.co/zuW2EWMH34,2021-06-06 11:00:00,0.81483393907547,0.0,0.0,0,0,0,0
+47,2021-06-06T08:36:37.000Z,I guess we read the instructions haha https://t.co/S3YXcUCaWN,2021-06-06 09:00:00,-0.9571149349212646,0.2,0.4588,0,0,0,0
+48,2021-06-05T21:18:43.000Z,"Don’t kill what you hate,
+Save what you love",2021-06-05 22:00:00,-0.7974874973297119,-0.15000000000000002,-0.25,0,0,0,0
+49,2021-06-05T18:55:49.000Z,"Goods &amp; services are the real economy, any form of money is simply the accounting thereof",2021-06-05 19:00:00,0.9989450573921204,0.1,0.0,0,0,0,0
+50,2021-06-05T08:39:49.000Z,💦🚀 –&gt; 🌙,2021-06-05 09:00:00,0.9496997594833374,0.0,0.0,0,0,0,0
+51,2021-06-04T03:25:26.000Z,"Canada
+USA
+Mexico",2021-06-04 04:00:00,0.5035839080810547,0.0,0.0,0,0,0,0
+52,2021-06-04T02:49:24.000Z,https://t.co/MLhu6oOwgc why are you crying cuz doge and bitoin price going down,2021-06-04 03:00:00,-0.9993676543235779,-0.1777777777777778,-0.4767,0,0,0,1
+53,2021-06-04T01:07:04.000Z,#Bitcoin 💔 https://t.co/lNnEfMdtJf,2021-06-04 02:00:00,-0.9538818001747131,0.0,0.0,0,0,1,0
+54,2021-06-02T07:05:02.000Z,Found this pic of me as a child https://t.co/hUEKluRAdP doge i have to keep my passion hidden from the public or i will be socially ostracized 1980,2021-06-02 08:00:00,0.5134879946708679,-0.044444444444444446,0.4588,0,0,0,1
+55,2021-05-30T19:42:22.000Z,Ocean spaceport Deimos is under construction for launch next year https://t.co/WJQka399c7,2021-05-30 20:00:00,0.9603344798088074,0.0,0.0,0,0,0,0
+56,2021-05-29T05:01:18.000Z,"Model S Plaid delivery pushed to June 10. Needs one more week of tweak.
+
+This car feels like a spaceship. Words cannot describe the limbic resonance.",2021-05-29 06:00:00,-0.9997367262840271,0.5,0.3612,0,0,0,0
+57,2021-05-28T04:56:24.000Z,https://t.co/0YDXE4KJlP,2021-05-28 05:00:00,0.8262366652488708,0.0,0.0,0,0,0,0
+58,2021-05-28T03:47:51.000Z,"Ship 16 &amp; Booster 2, Starbase Highbay https://t.co/IUuidOw9ym",2021-05-28 04:00:00,0.9846989512443542,0.0,0.0,0,0,0,0
+59,2021-05-26T18:49:21.000Z,"If only they had spaceships, they’d still be around",2021-05-26 19:00:00,-0.7008169293403625,0.0,0.0,0,0,0,0
+60,2021-05-26T18:47:30.000Z,Deep thots https://t.co/J5mJff7IIL,2021-05-26 19:00:00,0.9928152561187744,0.0,0.0,0,0,0,0
+61,2021-05-24T20:29:33.000Z,"Someone suggested changing Dogecoin fees based on phases of the moon, which is pretty awesome haha",2021-05-24 21:00:00,-0.9095129370689392,0.48333333333333334,0.8834,0,0,0,1
+62,2021-05-24T19:49:56.000Z,"If you’d like to help develop Doge, please submit ideas on GitHub &amp; https://t.co/liAPQMFaQB @dogecoin_devs",2021-05-24 20:00:00,0.6305227279663086,0.0,0.7579,0,0,0,1
+63,2021-05-24T19:42:36.000Z,Spoke with North American Bitcoin miners. They committed to publish current &amp; planned renewable usage &amp; to ask miners WW to do so. Potentially promising.,2021-05-24 20:00:00,0.9154465794563293,0.06666666666666667,0.6222,0,0,1,0
+64,2021-05-22T22:22:56.000Z,https://t.co/7afq6DIlzc stranger with a dog you can pet him if you like,2021-05-22 23:00:00,-0.9673569798469543,0.0,0.3612,0,0,0,1
+65,2021-05-22T09:22:41.000Z,Any sufficiently advanced magic is indistinguishable from technology,2021-05-22 10:00:00,0.6108147501945496,0.45,0.25,0,0,0,0
+66,2021-05-20T10:41:00.000Z,"How much is that Doge in the window? https://t.co/bxTkWOr50V doge going to hit 1 dollar, good",2021-05-20 11:00:00,-0.9961814880371094,0.44999999999999996,0.4404,0,0,0,1
+67,2021-05-20T07:54:54.000Z,"Tesla Model S Plaid delivery event
+June 3 at our California factory
+
+Fastest production car ever
+0 to 60mph in under 2 secs",2021-05-20 08:00:00,0.5761704444885254,0.0,0.0,0,0,0,0
+68,2021-05-19T15:41:10.000Z,Credit to our Master of Coin,2021-05-19 16:00:00,0.9995666146278381,0.0,0.3818,0,0,0,0
+69,2021-05-19T14:42:44.000Z,Tesla has 💎 🙌,2021-05-19 15:00:00,0.8786954879760742,0.0,0.0,0,0,0,0
+70,2021-05-18T13:43:19.000Z,"Aiming for extreme precision with next gen Model Y – microns, not millimeters",2021-05-18 14:00:00,-0.9869769215583801,-0.0625,0.0,0,0,0,0
+71,2021-05-18T11:46:18.000Z,Giga Berlin suppliers please accelerate!,2021-05-18 12:00:00,0.9103551506996155,0.0,0.3802,0,0,0,0
+72,2021-05-18T09:25:14.000Z,https://t.co/13m1KHFMjv,2021-05-18 10:00:00,0.917680561542511,0.0,0.0,0,0,0,0
+73,2021-05-13T23:30:52.000Z,As always https://t.co/gtFmtokzEZ doge bit dontt panic,2021-05-14 00:00:00,0.9348700642585754,0.0,-0.5106,0,0,0,1
+74,2021-05-13T22:45:16.000Z,Working with Doge devs to improve system transaction efficiency. Potentially promising.,2021-05-13 23:00:00,0.9993327260017395,0.2,0.7964,0,0,0,1
+75,2021-05-13T21:11:46.000Z,"To be clear, I strongly believe in crypto, but it can’t drive a massive increase in fossil fuel use, especially coal",2021-05-13 22:00:00,-0.8605246543884277,0.13333333333333333,0.6486,0,0,1,1
+76,2021-05-13T20:59:45.000Z,It is high time there was a carbon tax!,2021-05-13 21:00:00,-0.9939066767692566,0.2,0.0,0,0,0,0
+77,2021-05-13T09:54:35.000Z,Energy usage trend over past few months is insane https://t.co/E6o9s87trw https://t.co/bmv9wotwKe bitcoin electricity consumption not good,2021-05-13 10:00:00,-0.9999812841415405,-0.44999999999999996,-0.4599,0,0,1,0
+78,2021-05-12T22:06:14.000Z,"Tesla &amp; Bitcoin https://t.co/YSswJmVZhP tesla no longer accepting bitcoin, use too much energy, will not be selling bitcoin, exploring other cryptocurrency",2021-05-12 23:00:00,-0.9995425939559937,0.037500000000000006,0.3612,0,0,1,1
+79,2021-05-11T08:13:35.000Z,Do you want Tesla to accept Doge?,2021-05-11 09:00:00,-0.9862459897994995,0.0,0.4404,0,0,0,1
+80,2021-05-11T07:04:25.000Z,"SNL Monologue
+https://t.co/b2cvFGqVFF",2021-05-11 08:00:00,-0.8472465872764587,0.0,0.0,0,0,0,0
+81,2021-05-10T23:32:58.000Z,"Thanks again to @nbcsnl cast, writers &amp; crew! Honor &amp; pleasure to do the show with you.",2021-05-11 00:00:00,0.9970009922981262,0.25,0.8777,0,0,0,0
+82,2021-05-09T22:41:43.000Z,"SpaceX launching satellite Doge-1 to the moon next year
+
+– Mission paid for in Doge
+– 1st crypto in space
+– 1st meme in space
+
+To the mooooonnn!!
+
+https://t.co/xXfjGZVeUW",2021-05-09 23:00:00,0.9997617602348328,0.0,0.0,0,0,1,1
+83,2021-05-09T13:21:16.000Z,"Wario was my fav haha 👀 
+https://t.co/TNjn3meLVJ",2021-05-09 14:00:00,0.9918447136878967,0.2,0.7184,0,0,0,0
+84,2021-05-08T20:39:52.000Z,"Special link to view SNL outside USA
+https://t.co/egSDZ8sNFu",2021-05-08 21:00:00,0.9185690879821777,0.17857142857142858,0.4019,0,0,0,0
+85,2021-05-08T09:03:01.000Z,First time a Falcon rocket booster will reach double digits in flights https://t.co/wrojsaGExZ,2021-05-08 10:00:00,-0.8184080719947815,0.125,0.0258,0,0,0,0
+86,2021-05-08T01:22:52.000Z,Cybertruck prototype in New York this weekend,2021-05-08 02:00:00,0.9917701482772827,0.13636363636363635,0.0,0,0,0,0
+87,2021-05-07T21:05:35.000Z,Guest starring … https://t.co/buM3bTOWbX doge,2021-05-07 22:00:00,-0.9011220932006836,0.0,0.0,0,0,0,1
+88,2021-05-07T20:57:52.000Z,https://t.co/DlQtmfjKqL,2021-05-07 21:00:00,0.9077419638633728,0.0,0.0,0,0,0,0
+89,2021-05-07T04:24:20.000Z,"Cryptocurrency is promising, but please invest with caution! https://t.co/A4kplcP8Vq",2021-05-07 05:00:00,-0.9793893694877625,0.25,0.6239,0,0,1,1
+90,2021-05-06T19:26:59.000Z,Make humanity a multiplanet species!,2021-05-06 20:00:00,0.9994083642959595,0.0,0.0,0,0,0,0
+91,2021-05-06T19:26:09.000Z,Public support for life on Mars is critical to making it happen,2021-05-06 20:00:00,0.9952014684677124,0.0,0.1027,0,0,0,0
+92,2021-05-05T22:37:20.000Z,Starship landing nominal!,2021-05-05 23:00:00,-0.9990750551223755,0.0,0.0,0,0,0,0
+93,2021-05-05T22:22:39.000Z,About to launch https://t.co/t4nki8vU4E,2021-05-05 23:00:00,0.7155665159225464,0.0,0.0,0,0,0,0
+94,2021-05-02T03:13:36.000Z,I love Art Deco,2021-05-02 04:00:00,0.9899259805679321,0.5,0.6369,0,0,0,0
+95,2021-05-01T21:56:54.000Z,Baby Shark &amp; Shark Tank merge to form Baby Shark Tank,2021-05-01 22:00:00,-0.5898777842521667,0.0,0.0,0,0,0,0
+96,2021-05-01T21:53:38.000Z,Irony Man – defeats villains using the power of irony,2021-05-01 22:00:00,0.999483585357666,0.0,-0.7964,0,0,0,0
+97,2021-05-01T21:49:50.000Z,Throwing out some skit ideas for SNL. What should I do?,2021-05-01 22:00:00,-0.9966140389442444,0.0,0.0,0,0,0,0
+98,2021-05-01T21:36:22.000Z,"Woke James Bond
+SNL May 8",2021-05-01 22:00:00,-0.9181371927261353,0.0,0.0,0,0,0,0
+99,2021-04-29T22:45:59.000Z,"A major part of real-world AI has to be solved to make unsupervised, generalized full self-driving work, as the entire road system is designed for biological neural nets with optical imagers",2021-04-29 23:00:00,0.9790133237838745,0.13749999999999998,0.2732,0,0,0,0
+100,2021-04-28T08:43:37.000Z,"♥️
+https://t.co/juLuKlymEX",2021-04-28 09:00:00,-0.5440870523452759,0.0,0.0,0,0,0,0
+101,2021-04-28T06:20:47.000Z,"The Dogefather
+SNL May 8",2021-04-28 07:00:00,-0.9977006316184998,0.0,0.0,0,0,0,1
+102,2021-04-27T00:15:00.000Z,"Starship SN15 static fire completed, preparing for flight later this week",2021-04-27 01:00:00,0.9783307313919067,0.25,-0.34,0,0,0,0
+103,2021-04-25T03:20:46.000Z,Let’s find out just how live Saturday Night Live really is 😈,2021-04-25 04:00:00,0.8906341791152954,0.15757575757575756,0.0,0,0,0,0
+104,2021-04-25T03:09:25.000Z,Am hosting SNL on May 8,2021-04-25 04:00:00,-0.9355082511901855,0.0,0.0,0,0,0,0
+105,2021-04-24T09:03:34.000Z,https://t.co/l6Bc0wkWol,2021-04-24 10:00:00,0.759638249874115,0.0,0.0,0,0,0,0
+106,2021-04-24T08:55:19.000Z,define … beauty,2021-04-24 09:00:00,0.9994742274284363,0.0,0.5859,0,0,0,0
+107,2021-04-24T08:54:25.000Z,What does the future hodl?,2021-04-24 09:00:00,-0.9889251589775085,0.0,0.0,0,0,0,0
+108,2021-04-23T09:47:18.000Z,2 mins to launch https://t.co/q9nXKRrXpw,2021-04-23 10:00:00,0.9421746730804443,0.0,0.0,0,0,0,0
+109,2021-04-23T08:13:41.000Z,Astronauts preparing to launch to @Space_Station https://t.co/WBkaDZexEc,2021-04-23 09:00:00,-0.5577724575996399,0.0,0.0,0,0,0,0
+110,2021-04-22T20:57:44.000Z,🌍🌎🌏 Happy Earth Day 🌍🌎🌏,2021-04-22 21:00:00,0.9957250356674194,0.8,0.5719,0,0,0,0
+111,2021-04-22T05:49:17.000Z,Tesla Solar + Powerwall battery enables consumers to be their own utility,2021-04-22 06:00:00,0.9992163181304932,0.6,0.0,0,0,0,0
+112,2021-04-22T05:14:54.000Z,"Powerwall 2 peak &amp; steady power capability is better than advertised. 
+
+Now that we have lots of operational data, Tesla can unlock higher capabilities for free via software update next month. 
+
+Depending on production date, power increase power may be &gt;50% at 30C ambient temp.",2021-04-22 06:00:00,0.9970011115074158,0.2633333333333333,0.8176,0,0,0,0
+113,2021-04-22T01:51:09.000Z,"Solar power will feed exclusively to Powerwall. Powerwall will interface only between utility meter &amp; house main breaker panel, enabling super simple install &amp; seamless whole house backup during utility dropouts.",2021-04-22 02:00:00,-0.8793447613716125,0.13333333333333333,0.5994,0,0,0,0
+114,2021-04-22T01:27:43.000Z,"Starting next week, Tesla Solar Panels &amp; Solar Roof will only be sold as an integrated product *with* Tesla Powerwall battery",2021-04-22 02:00:00,-0.9945604205131531,0.0,0.0,0,0,0,0
+115,2021-04-17T22:32:03.000Z,Tesla with Autopilot engaged now approaching 10 times lower chance of accident than average vehicle https://t.co/6lGy52wVhC,2021-04-17 23:00:00,-0.8604254722595215,-0.075,-0.1531,0,0,0,0
+116,2021-04-17T05:46:56.000Z,Dragon spacecraft &amp; Falcon 9 rocket https://t.co/A6fsNlsN9z,2021-04-17 06:00:00,0.992160975933075,0.0,0.0,0,0,0,0
+117,2021-04-17T04:46:34.000Z,"If we make life multiplanetary, there may come a day when some plants &amp; animals die out on Earth, but are still alive on Mars",2021-04-17 05:00:00,0.9876517057418823,0.1,0.2382,0,0,0,0
+118,2021-04-17T01:37:48.000Z,Everything to the moon!,2021-04-17 02:00:00,0.9992755055427551,0.0,0.0,0,0,0,0
+119,2021-04-16T22:16:48.000Z,We are honored to be part of the @NASAArtemis team,2021-04-16 23:00:00,0.997980535030365,0.0,0.5859,0,0,0,0
+120,2021-04-16T21:55:05.000Z,🚀🖤💫 NASA Rules!! 💫🖤🚀 https://t.co/hmeGx2peZ6,2021-04-16 22:00:00,0.779798686504364,0.0,0.0,0,0,0,0
+121,2021-04-16T17:01:25.000Z,👀,2021-04-16 18:00:00,-0.7614845037460327,0.0,0.0,0,0,0,0
+122,2021-04-16T02:13:57.000Z,🎸🎸 Austin Rocks!! 🎸 🎸,2021-04-16 03:00:00,0.9994470477104187,0.0,0.0,0,0,0,0
+123,2021-04-16T00:50:37.000Z,Make life multiplanetary! #Mars,2021-04-16 01:00:00,0.9999126195907593,0.0,0.0,0,0,0,0
+124,2021-04-15T04:33:18.000Z,Doge Barking at the Moon https://t.co/QFB81D7zOL,2021-04-15 05:00:00,-0.999215841293335,0.0,0.0,0,0,0,1
+125,2021-04-15T03:47:00.000Z,Le Petit Prince,2021-04-15 04:00:00,0.9961397051811218,0.0,0.0,0,0,0,0
+126,2021-04-15T03:42:35.000Z,"☾
+
+           🔭𖨆♡",2021-04-15 04:00:00,-0.8353738784790039,0.0,0.0,0,0,0,0
+127,2021-04-14T21:57:08.000Z,Tesla AI/Autopilot engineering is awesome! Making excellent progress solving real-world AI.,2021-04-14 22:00:00,0.9976479411125183,1.0,0.923,0,0,0,0
+128,2021-04-11T15:48:58.000Z,Love this beautiful shot,2021-04-11 16:00:00,0.9975675344467163,0.675,0.8442,0,0,0,0
+129,2021-04-11T12:23:49.000Z,The art In Cyberpunk is incredible,2021-04-11 13:00:00,0.9996030926704407,0.9,0.0,0,0,0,0
+130,2021-04-10T22:09:02.000Z,Blimps rock https://t.co/e8cu5FkNOI,2021-04-10 23:00:00,-0.9999545812606812,0.0,0.0,0,0,0,0
+131,2021-04-10T07:45:17.000Z,Just needs some legs,2021-04-10 08:00:00,-0.9030263423919678,0.0,0.0,0,0,0,0
+132,2021-04-10T07:45:10.000Z,The Starship launch tower that catches the giant rocket booster is basically Mechazilla,2021-04-10 08:00:00,-0.9995253086090088,0.0,0.0,0,0,0,0
+133,2021-04-10T07:29:45.000Z,But wait how is the core of the earth lit by the sun? Stop asking questions!!,2021-04-10 08:00:00,-0.945796012878418,0.0,-0.5242,0,0,0,0
+134,2021-04-10T07:29:01.000Z,Kong vs Godzilla has record for most meth ever consumed in a writer’s room,2021-04-10 08:00:00,-0.7143918871879578,0.5,0.0,0,0,0,0
+135,2021-04-10T07:15:47.000Z,… going to moon very soon,2021-04-10 08:00:00,-0.9255729913711548,0.2,0.0,0,0,0,0
+136,2021-04-10T06:41:45.000Z,Where is Shrek 5!? https://t.co/PqAZ5Mg8Es,2021-04-10 07:00:00,0.6984072923660278,0.0,0.0,0,0,0,0
+137,2021-04-09T22:24:01.000Z,It’s all about the cufflinks https://t.co/elccqC0Zuf,2021-04-09 23:00:00,-0.6226358413696289,0.0,0.0,0,0,0,0
+138,2021-04-09T11:24:30.000Z,Thanks to all that helped SpaceX!,2021-04-09 12:00:00,0.9970859885215759,0.25,0.4926,0,0,0,0
+139,2021-04-09T11:21:13.000Z,Just read it. Book is accurate. https://t.co/3bI9Vw8iP1,2021-04-09 12:00:00,0.9950467348098755,0.4000000000000001,0.0,0,0,0,0
+140,2021-04-09T07:32:42.000Z,https://t.co/XeQursZpvq doge picture,2021-04-09 08:00:00,0.6660429239273071,0.0,0.0,0,0,0,1
+141,2021-04-09T04:11:42.000Z,Soon our monkey will be on twitch &amp; discord haha,2021-04-09 05:00:00,-0.8424554467201233,0.07500000000000001,0.0772,0,0,0,0
+142,2021-04-09T01:48:09.000Z,A monkey is literally playing a video game telepathically using a brain chip!!,2021-04-09 02:00:00,-0.9989126920700073,-0.3375,0.3365,0,0,0,0
+143,2021-04-09T01:41:23.000Z,"The device is implanted flush with skull &amp; charges wirelessly, so you look &amp; feel totally normal",2021-04-09 02:00:00,0.978665292263031,0.15,-0.2732,0,0,0,0
+144,2021-04-09T00:29:40.000Z,"Later versions will be able to shunt signals from Neuralinks in brain to Neuralinks in body motor/sensory neuron clusters, thus enabling, for example, paraplegics to walk again",2021-04-09 01:00:00,0.9982942938804626,0.25,0.0,0,0,0,0
+145,2021-04-09T00:24:31.000Z,First @Neuralink product will enable someone with paralysis to use a smartphone with their mind faster than someone using thumbs,2021-04-09 01:00:00,0.8856516480445862,0.25,0.0,0,0,0,0
+146,2021-04-09T00:16:21.000Z,Monkey plays Pong with his mind https://t.co/35NIFm4C7T,2021-04-09 01:00:00,0.9306061863899231,-0.05,0.25,0,0,0,0
+147,2021-04-08T09:41:16.000Z,Thanks Tesla suppliers for providing us with critical parts!,2021-04-08 10:00:00,0.9982764720916748,0.1,0.2244,0,0,0,0
+148,2021-04-07T20:02:22.000Z,"To be clear, I do support vaccines in general &amp; covid vaccines specifically. The science is unequivocal. 
+
+In very rare cases, there is an allergic reaction, but this is easily addressed with an EpiPen.",2021-04-07 21:00:00,0.7146211862564087,0.24333333333333335,0.631,0,0,0,0
+149,2021-04-06T19:28:24.000Z,“Tanks for the memery!” – Panzer of the Lake,2021-04-06 20:00:00,-0.9168071746826172,0.0,0.0,0,0,0,0
+150,2021-04-05T11:01:29.000Z,"The Earth is not flat, it’s a hollow globe &amp; Donkey King lives there!",2021-04-05 12:00:00,-0.9999197721481323,-0.05625,0.0,0,0,0,0
+151,2021-04-05T10:28:42.000Z,"Godzilla vs Kong is so amaze much wow!
+Most insane movie I’ve ever seen!
+Love letter to conspiracy theorists!
+And yet heartwarming in the end.",2021-04-05 11:00:00,0.9993396401405334,0.0625,0.9069,0,0,0,0
+152,2021-04-04T10:53:26.000Z,Urgent need to build more housing in greater Austin area!,2021-04-04 11:00:00,0.984062135219574,0.5625,0.5935,0,0,0,0
+153,2021-04-04T06:25:28.000Z,Austin++,2021-04-04 07:00:00,0.9998713731765747,0.0,0.0,0,0,0,0
+154,2021-04-04T01:03:00.000Z,No it doesn’t hurt at all 🩸 https://t.co/NnL6o1si0V,2021-04-04 02:00:00,0.9935790300369263,0.0,-0.6808,0,0,0,0
+155,2021-04-03T04:31:41.000Z,"Me in my sick new car
+(left him the money) https://t.co/EGaY1FVfHm",2021-04-03 05:00:00,-0.8147878646850586,-0.19264069264069264,-0.5106,0,0,0,0
+156,2021-04-01T10:25:23.000Z,SpaceX is going to put a literal Dogecoin on the literal moon,2021-04-01 11:00:00,-0.9952444434165955,0.0,0.0,0,0,0,1
+157,2021-04-01T10:23:49.000Z,Nicheman — his superpower is appealing to small audiences,2021-04-01 11:00:00,0.9984431862831116,0.125,0.0,0,0,0,0
+158,2021-03-31T19:23:17.000Z,"Over 10,000 people are needed for Giga Texas just through 2022!
+- 5 mins from airport
+-15 mins from downtown
+- Right on Colorado river https://t.co/w454iXedxB",2021-03-31 20:00:00,0.9681218266487122,0.2857142857142857,0.0,0,0,0,0
+159,2021-03-30T14:44:51.000Z,Starbase will grow by several thousand people over the next year or two,2021-03-30 15:00:00,0.8726803064346313,0.0,0.0,0,0,0,0
+160,2021-03-30T14:29:47.000Z,Probably most “in space” you could possibly feel by being in a glass dome https://t.co/SOAIzxVGgX,2021-03-30 15:00:00,0.9201444983482361,0.25,0.0,0,0,0,0
+161,2021-03-30T14:27:29.000Z,Am donating $20M to Cameron County schools &amp; $10M to City of Brownsville for downtown revitalization. Details to follow next week.,2021-03-30 15:00:00,-0.99981290102005,0.0,0.0,0,0,0,0
+162,2021-03-30T14:17:29.000Z,"Please consider moving to Starbase or greater Brownsville/South Padre area in Texas &amp; encourage friends to do so! 
+
+SpaceX’s hiring needs for engineers, technicians, builders &amp; essential support personnel of all kinds are growing rapidly.",2021-03-30 15:00:00,0.9701059460639954,0.3125,0.9312,0,0,0,0
+163,2021-03-29T15:33:52.000Z,FAA inspector unable to reach Starbase in time for launch today. Postponed to no earlier than tomorrow.,2021-03-29 16:00:00,-0.9986562728881836,-0.25,-0.4404,0,0,0,0
+164,2021-03-28T18:12:55.000Z,Possible Starship flight tomorrow afternoon,2021-03-28 19:00:00,0.9596216082572937,0.0,0.0,0,0,0,0
+165,2021-03-28T11:10:25.000Z,Wholesome memes https://t.co/u5TkHJua8Q,2021-03-28 12:00:00,0.9973273277282715,0.0,0.0,0,0,0,0
+166,2021-03-27T03:34:31.000Z,Check out our new crane https://t.co/PE4vL6uKcb,2021-03-27 04:00:00,0.9990794658660889,0.13636363636363635,0.0,0,0,0,0
+167,2021-03-25T10:35:03.000Z,"If there’s ever a scandal about me, *please* call it Elongate",2021-03-25 11:00:00,0.8499341011047363,0.0,-0.4404,0,0,0,0
+168,2021-03-25T10:25:26.000Z,Don’t defy DeFi,2021-03-25 11:00:00,-0.9987694621086121,0.0,0.0,0,0,0,0
+169,2021-03-25T07:48:53.000Z,Mars rover looking back https://t.co/oaFOCezRuU,2021-03-25 08:00:00,-0.8132581114768982,0.0,0.0,0,0,0,0
+170,2021-03-24T07:10:43.000Z,Pay by Bitcoin capability available outside US later this year,2021-03-24 08:00:00,-0.9613596796989441,0.13333333333333333,-0.1027,0,0,1,0
+171,2021-03-24T07:09:34.000Z,"Tesla is using only internal &amp; open source software &amp; operates Bitcoin nodes directly.
+
+Bitcoin paid to Tesla will be retained as Bitcoin, not converted to fiat currency.",2021-03-24 08:00:00,-0.9927678108215332,0.025,0.0258,0,0,1,0
+172,2021-03-24T07:02:40.000Z,You can now buy a Tesla with Bitcoin,2021-03-24 08:00:00,-0.8045867085456848,0.0,0.0,0,0,1,0
+173,2021-03-23T01:14:58.000Z,Strongest argument against aliens https://t.co/eF2FFZpJQE,2021-03-23 02:00:00,0.9981799125671387,0.0,0.1027,0,0,0,0
+174,2021-03-20T09:21:38.000Z,Music in zero gravity https://t.co/bepfMipjrE,2021-03-20 10:00:00,0.95677250623703,0.0,0.0,0,0,0,0
+175,2021-03-19T02:40:07.000Z,https://t.co/Ngk8SJvDUW,2021-03-19 03:00:00,0.9783427119255066,0.0,0.0,0,0,0,0
+176,2021-03-18T23:15:42.000Z,First Super Heavy Booster https://t.co/0K5QPsEbbt,2021-03-19 00:00:00,0.9997826218605042,0.12777777777777774,0.5994,0,0,0,0
+177,2021-03-18T07:09:10.000Z,The simulation really struggled to make this look real haha https://t.co/t8zvFTRUHU,2021-03-18 08:00:00,-0.9999485015869141,0.25,0.079,0,0,0,0
+178,2021-03-18T06:38:56.000Z,"Aspirationally acerbic alliteration 
+-&gt; Bullshit baffles brains",2021-03-18 07:00:00,-0.9987510442733765,0.0,-0.5859,0,0,0,0
+179,2021-03-17T01:20:54.000Z,SN11 almost ready to fly https://t.co/fXmjJZOiKk,2021-03-17 02:00:00,0.9383959174156189,0.5,0.2975,0,0,0,0
+180,2021-03-16T23:41:44.000Z,"Actually, doesn’t feel quite right selling this. Will pass.",2021-03-17 00:00:00,-0.9989715814590454,0.14285714285714285,0.0,0,0,0,0
+181,2021-03-15T19:52:47.000Z,"I’m selling this song about NFTs as an NFT https://t.co/B4EZLlesPx doge bitcoin hold, price go up",2021-03-15 20:00:00,-0.9956071972846985,0.0,0.0,0,0,1,1
+182,2021-03-14T14:17:57.000Z,I love music. It makes my heart sing.,2021-03-14 15:00:00,0.9974626302719116,0.5,0.6369,0,0,0,0
+183,2021-03-14T14:10:15.000Z,"This is good
+ https://t.co/8KATmh2BJx",2021-03-14 15:00:00,0.9718762636184692,0.7,0.4404,0,0,0,0
+184,2021-03-14T14:00:29.000Z,"Play your favorite song in a Tesla &amp; turn the volume to 11
+
+You will see. You will feel.",2021-03-14 15:00:00,0.9998987913131714,0.5,0.6597,0,0,0,0
+185,2021-03-14T13:38:38.000Z,A puckish rogue https://t.co/98q8bCT68q,2021-03-14 14:00:00,-0.999066174030304,0.0,0.0,0,0,0,0
+186,2021-03-14T04:10:36.000Z,Falcon flies for the 9th time tonight,2021-03-14 05:00:00,0.9081616997718811,0.0,0.0,0,0,0,0
+187,2021-03-14T03:54:54.000Z,I’m getting a Shiba Inu #resistanceisfutile,2021-03-14 04:00:00,-0.7336912751197815,0.0,0.0,0,0,0,1
+188,2021-03-14T01:59:13.000Z,"Homo sapiens techno: 
+Loves raves &amp; technology",2021-03-14 02:00:00,0.994333028793335,0.0,0.5719,0,0,0,0
+189,2021-03-13T23:51:05.000Z,"Why are you so dogematic, they ask",2021-03-14 00:00:00,-0.9998016953468323,0.0,0.0,0,0,0,1
+190,2021-03-13T23:46:16.000Z,"Origin of Doge Day Afternoon:
+The ancient Romans sacrificed a Dogecoin at the beginning of the Doge Days to appease the rage of Sirius, believing that the star was the cause of the hot, sultry weather.",2021-03-14 00:00:00,0.8951687812805176,0.25,-0.3612,0,0,0,1
+191,2021-03-13T23:40:41.000Z,Doge day afternoon,2021-03-14 00:00:00,0.8156803250312805,0.0,0.0,0,0,0,1
+192,2021-03-13T23:32:59.000Z,Woketopia. Battle for the Moral High Ground in this new game!,2021-03-14 00:00:00,-0.8613548278808594,-0.050909090909090904,-0.4389,0,0,0,0
+193,2021-03-13T07:20:23.000Z,🎶 This Magic Moment 🎶,2021-03-13 08:00:00,0.998943030834198,0.5,0.0,0,0,0,0
+194,2021-03-12T23:51:00.000Z,"FSD Beta has now been expanded to ~2000 owners &amp; we’ve also revoked beta where drivers did not pay sufficient attention to the road. No accidents to date.
+
+Next significant release will be in April. Going with pure vision — not even using radar. This is the way to real-world AI.",2021-03-13 00:00:00,0.9928162097930908,0.19642857142857142,-0.1037,0,0,0,0
+195,2021-03-12T19:00:34.000Z,Both do mining &amp; use blocks &amp; chains,2021-03-12 20:00:00,0.9975959658622742,0.0,-0.2263,0,0,0,0
+196,2021-03-12T18:58:22.000Z,"BTC (Bitcoin) is an anagram of
+TBC(The Boring Company)
+What a coincidence!",2021-03-12 19:00:00,-0.5410671830177307,-1.0,-0.3802,0,0,1,0
+197,2021-03-08T13:24:16.000Z,"Starbase, Texas https://t.co/mt4IpqqmjF",2021-03-08 14:00:00,0.9047987461090088,0.0,0.0,0,0,0,0
+198,2021-03-08T10:14:43.000Z,Carnot efficiency of the Universe?,2021-03-08 11:00:00,-0.9996033310890198,0.0,0.3612,0,0,0,0
+199,2021-03-07T22:43:39.000Z,"Great band, too bad they broke up https://t.co/VQm7HhHw2M",2021-03-07 23:00:00,0.9690384268760681,0.0500000000000001,-0.296,0,0,0,0
+200,2021-03-06T22:47:09.000Z,"Availability varies by region due to regulatory approval delays and/or Tesla internal development &amp; testing. 
+
+Note: word “Beta” is used to reduce complacency in usage &amp; set expectations appropriately. All software is first tested internally by Tesla simulation &amp; QA drive teams.",2021-03-06 23:00:00,0.6019567251205444,0.125,0.4767,0,0,0,0
+201,2021-03-06T22:35:23.000Z,"Due to high levels of demand for FSD Beta, adding “Download Beta” button to Service section of car display in ~10 days https://t.co/D6M3ZiMarG",2021-03-06 23:00:00,0.9906184077262878,0.0175,-0.128,0,0,0,0
+202,2021-03-06T04:40:30.000Z,Doge spelled backwards is Egod,2021-03-06 05:00:00,-0.9938272833824158,0.0,0.0,0,0,0,1
+203,2021-03-06T01:57:02.000Z,"If you want the Tesla Full Self-Driving Beta downloaded to your car, let us know. Doubling beta program size now with 8.2 &amp; probably 10X size with 8.3. Still be careful, but it’s getting mature.",2021-03-06 02:00:00,0.9405362606048584,0.11666666666666665,0.631,0,0,0,0
+204,2021-03-05T22:37:43.000Z,🙄,2021-03-05 23:00:00,-0.7614845037460327,0.0,0.0,0,0,0,0
+205,2021-03-05T10:35:28.000Z,"SN10 is in Valhalla now
+https://t.co/dHy4tDVGnI",2021-03-05 11:00:00,0.7497591376304626,0.0,0.0,0,0,0,0
+206,2021-03-05T10:32:09.000Z,Cybervikings of Mars,2021-03-05 11:00:00,0.7388198375701904,0.0,0.0,0,0,0,0
+207,2021-03-04T00:35:12.000Z,Starship SN10 landed in one piece! https://t.co/lO4AF47MaN,2021-03-04 01:00:00,-0.6312638521194458,0.0,0.0,0,0,0,0
+208,2021-03-03T20:39:42.000Z,Launch abort on slightly conservative high thrust limit. Increasing thrust limit &amp; recycling propellant for another flight attempt today.,2021-03-03 21:00:00,0.9963243007659912,-0.003333333333333327,0.0,0,0,0,0
+209,2021-03-03T20:10:07.000Z,5 mins to Starship test flight attempt,2021-03-03 21:00:00,0.8355779647827148,0.0,0.0,0,0,0,0
+210,2021-03-03T11:59:08.000Z,March 3rd,2021-03-03 12:00:00,0.5723912715911865,0.0,0.0,0,0,0,0
+211,2021-03-03T11:30:39.000Z,Starship launch tomorrow. Window opens at 9am.,2021-03-03 12:00:00,0.814031720161438,0.0,0.0,0,0,0,0
+212,2021-03-02T21:19:32.000Z,"From thence to Mars,
+And hence the Stars.",2021-03-02 22:00:00,0.9950566291809082,0.0,0.0,0,0,0,0
+213,2021-03-02T20:31:38.000Z,"Creating the city of Starbase, Texas",2021-03-02 21:00:00,0.8659197688102722,0.0,0.296,0,0,0,0
+214,2021-03-02T18:41:18.000Z,Horses are even self-driving! https://t.co/qPJrCFGs8J,2021-03-02 19:00:00,0.9970201849937439,0.0,0.0,0,0,0,0
+215,2021-03-02T17:50:44.000Z,Scammers &amp; crypto should get a room,2021-03-02 18:00:00,-0.9991500377655029,0.0,0.0,0,0,1,1
+216,2021-03-01T22:23:50.000Z,Green eggs &amp; SPAC,2021-03-01 23:00:00,-0.9731494784355164,-0.2,0.0,0,0,0,0
+217,2021-03-01T19:57:08.000Z,Doge meme shield (legendary item) https://t.co/CeomU9q84c,2021-03-01 20:00:00,0.9909750819206238,1.0,0.0,0,0,0,1
+218,2021-03-01T19:01:34.000Z,New drug coming out called Regretamine. Pop one &amp; all regrets are gone.,2021-03-01 20:00:00,-0.9153968691825867,0.018181818181818174,-0.3612,0,0,0,0
+219,2021-03-01T18:59:03.000Z,Always wondered where exactly your gaming character keeps all the stuff https://t.co/nNk2MeFGjf,2021-03-01 19:00:00,-0.9917587637901306,0.25,0.0,0,0,0,0
+220,2021-02-26T10:04:57.000Z,https://t.co/jJeP4pFR6m,2021-02-26 11:00:00,0.9548676609992981,0.0,0.0,0,0,0,0
+221,2021-02-26T09:50:44.000Z,Do androids dream of electric cars?,2021-02-26 10:00:00,-0.9459904432296753,0.0,0.25,0,0,0,0
+222,2021-02-25T22:08:03.000Z,🙏 https://t.co/BBwnTndvoi,2021-02-25 23:00:00,-0.8468251824378967,0.0,0.0,0,0,0,0
+223,2021-02-25T11:52:19.000Z,"Not a meta4, I mean actual books",2021-02-25 12:00:00,-0.9763571619987488,-0.15625,0.0,0,0,0,0
+224,2021-02-25T11:10:19.000Z,I admit to judging books by their cover,2021-02-25 12:00:00,0.9535003304481506,0.0,0.2023,0,0,0,0
+225,2021-02-25T06:35:22.000Z,Starship to the moon https://t.co/tVMJbBk3BU,2021-02-25 07:00:00,0.9285792112350464,0.0,0.0,0,0,0,0
+226,2021-02-25T05:15:02.000Z,"Out on launch pad, engine swap underway https://t.co/QNXGtL90WN",2021-02-25 06:00:00,0.7398589849472046,0.0,0.0,0,0,0,0
+227,2021-02-25T01:25:56.000Z,You might see much higher download speeds on Starlink at times. Testing system upgrades.,2021-02-25 02:00:00,-0.8989484906196594,0.25,0.0,0,0,0,0
+228,2021-02-24T13:10:13.000Z,On the actual moon,2021-02-24 14:00:00,0.9958872199058533,0.0,0.0,0,0,0,0
+229,2021-02-24T13:00:05.000Z,Literally https://t.co/XBAUqiVsPH doge price on moon wow,2021-02-24 14:00:00,-0.6058496236801147,0.1,0.5859,0,0,0,1
+230,2021-02-23T11:50:35.000Z,Excession,2021-02-23 12:00:00,-0.998674750328064,0.0,0.0,0,0,0,0
+231,2021-02-21T23:11:50.000Z,Of spaceflight,2021-02-22 00:00:00,0.9991936087608337,0.0,0.0,0,0,0,0
+232,2021-02-21T21:59:56.000Z,Hypernominalization,2021-02-21 22:00:00,-0.997911274433136,0.0,0.0,0,0,0,0
+233,2021-02-21T21:27:06.000Z,Dojo 4 Doge,2021-02-21 22:00:00,0.9584149122238159,0.0,0.0,0,0,0,1
+234,2021-02-20T23:42:57.000Z,Cryptocurrency explained https://t.co/kUXaXx8a1R,2021-02-21 00:00:00,0.9655905961990356,0.0,0.0,0,0,1,1
+235,2021-02-20T21:06:39.000Z,Or did they say pegged to the dollar? Something like that …,2021-02-20 22:00:00,-0.6461713314056396,0.0,0.3612,0,0,0,0
+236,2021-02-20T20:52:56.000Z,Heard a rumor some crypto coin was pegging the dollar 🤣🤣,2021-02-20 21:00:00,-0.999893069267273,0.0,0.0,0,0,1,1
+237,2021-02-19T21:06:55.000Z,I just want to start a flame in your heart,2021-02-19 22:00:00,0.9984689354896545,0.0,0.0772,0,0,0,0
+238,2021-02-19T20:34:57.000Z,Just for a day,2021-02-19 21:00:00,-0.9810060262680054,0.0,0.0,0,0,0,0
+239,2021-02-17T08:55:40.000Z,.@ERCOT_ISO is not earning that R,2021-02-17 09:00:00,-0.999416708946228,0.0,0.0,0,0,0,0
+240,2021-02-15T10:05:59.000Z,I will literally pay actual $ if they just void their accounts,2021-02-15 11:00:00,-0.9985937476158142,0.0,-0.1027,0,0,0,0
+241,2021-02-15T09:52:37.000Z,https://t.co/w11m1IAG0z,2021-02-15 10:00:00,0.7202030420303345,0.0,0.0,0,0,0,0
+242,2021-02-14T23:25:16.000Z,"If major Dogecoin holders sell most of their coins, it will get my full support. Too much concentration is the only real issue imo.",2021-02-15 00:00:00,-0.9564780592918396,0.21875,0.4019,0,0,0,1
+243,2021-02-13T21:19:38.000Z,было бы большой честью поговорить с вами,2021-02-13 22:00:00,0.7446812391281128,0.0,0.0,0,0,0,0
+244,2021-02-13T21:07:38.000Z,.@KremlinRussia_E would you like join me for a conversation on Clubhouse?,2021-02-13 22:00:00,-0.9245651960372925,0.0,0.5719,0,0,0,0
+245,2021-02-13T14:12:41.000Z,Lil meme juice for the weekend https://t.co/e9rVtk4SEe,2021-02-13 15:00:00,0.8271090984344482,0.0,0.0,0,0,0,0
+246,2021-02-11T20:05:55.000Z,Happy New Year of the Ox! https://t.co/9WFKMYu2oj,2021-02-11 21:00:00,0.999164342880249,0.48522727272727273,0.6114,0,0,0,0
+247,2021-02-11T09:08:33.000Z,"Frodo was the underdoge,
+All thought he would fail,
+Himself most of all. https://t.co/zGxJFDzzrM bitcoin is the only one coin to rule them all",2021-02-11 10:00:00,-0.93075031042099,0.0,-0.5423,0,0,1,1
+248,2021-02-10T21:15:44.000Z,The most entertaining outcome is the most likely,2021-02-10 22:00:00,0.9988163709640503,0.375,0.4927,0,0,0,0
+249,2021-02-10T19:47:18.000Z,Just agree to do Clubhouse with @kanyewest,2021-02-10 20:00:00,0.5892443656921387,0.0,0.3612,0,0,0,0
+250,2021-02-10T16:51:31.000Z,https://t.co/3rWE9uHSTS,2021-02-10 17:00:00,0.9580726027488708,0.0,0.0,0,0,0,0
+251,2021-02-10T15:08:11.000Z,"Bought some Dogecoin for lil X, so he can be a toddler hodler",2021-02-10 16:00:00,0.990182101726532,0.0,0.0,0,0,0,1
+252,2021-02-10T07:18:12.000Z,This is true power haha https://t.co/Fc9uhQSd7O chuck norris can withdraw bitcoin form mt gox,2021-02-10 08:00:00,0.857504665851593,0.275,0.7003,0,0,1,0
+253,2021-02-09T00:08:40.000Z,XPrize team will manage the $100M carbon capture prize https://t.co/fSw5IanL0r,2021-02-09 01:00:00,0.9934158325195312,0.0,0.5106,0,0,0,0
+254,2021-02-08T06:07:04.000Z,Back to work I go …,2021-02-08 07:00:00,0.9891858100891113,0.0,0.0,0,0,0,0
+255,2021-02-08T01:13:52.000Z,"Ð is for Ðogecoin! Instructional video.
+https://t.co/UEEocOfcTb",2021-02-08 02:00:00,-0.9984164237976074,0.0,0.0,0,0,0,0
+256,2021-02-08T00:09:57.000Z,The people have spoken … https://t.co/x41oVMzTGo,2021-02-08 01:00:00,0.5818673968315125,0.0,0.0,0,0,0,0
+257,2021-02-07T22:25:14.000Z,🎶 Who let the Doge out 🎶,2021-02-07 23:00:00,-0.9986488223075867,0.0,0.0,0,0,0,1
+258,2021-02-07T22:12:09.000Z,Hodl the rainforests!!,2021-02-07 23:00:00,-0.9877239465713501,0.0,0.0,0,0,0,0
+259,2021-02-07T07:41:23.000Z,So … it’s finally come to this … https://t.co/Gf0Rg2QOaF everyone supporting doge,2021-02-07 08:00:00,0.9234721660614014,0.125,0.4404,0,0,0,1
+260,2021-02-06T22:16:52.000Z,Lessons learned,2021-02-06 23:00:00,0.9002628922462463,0.0,0.0,0,0,0,0
+261,2021-02-06T22:14:57.000Z,Of Earth and Mars,2021-02-06 23:00:00,0.9977028965950012,0.0,0.0,0,0,0,0
+262,2021-02-06T22:12:57.000Z,Time to tell the story of Tesla &amp; SpaceX,2021-02-06 23:00:00,0.9999469518661499,0.0,0.0,0,0,0,0
+263,2021-02-06T09:58:04.000Z,The Second Last Kingdom https://t.co/Je4EI88HmV,2021-02-06 10:00:00,-0.5656198859214783,0.0,0.0,0,0,0,0
+264,2021-02-06T08:32:55.000Z,"YOLT
+
+https://t.co/cnOf9yjpF1",2021-02-06 09:00:00,0.8427892327308655,0.0,0.0,0,0,0,0
+265,2021-02-06T06:46:24.000Z,The great thing about restaurants is that you get to hang out with strangers! - SJM,2021-02-06 07:00:00,0.9997641444206238,1.0,0.6588,0,0,0,0
+266,2021-02-06T04:51:07.000Z,The future currency of Earth,2021-02-06 05:00:00,0.9990363121032715,0.0,0.0,0,0,0,0
+267,2021-02-06T04:02:23.000Z,Much wow!,2021-02-06 05:00:00,0.9969491362571716,0.125,0.6239,0,0,0,0
+268,2021-02-04T10:08:21.000Z,"I am become meme,
+Destroyer of shorts",2021-02-04 11:00:00,-0.8935426473617554,0.0,-0.4588,0,0,0,0
+269,2021-02-04T09:34:47.000Z,Sandstorm is a masterpiece,2021-02-04 10:00:00,0.999901533126831,0.0,0.6249,0,0,0,0
+270,2021-02-04T08:44:12.000Z,"Next time, we try pull *up* method https://t.co/J1M7WHLRDR",2021-02-04 09:00:00,-0.9894663691520691,0.0,0.0,0,0,0,0
+271,2021-02-04T08:43:13.000Z,Low-key Loki,2021-02-04 09:00:00,-0.8789642453193665,0.0,0.0,0,0,0,0
+272,2021-02-04T08:27:10.000Z,"No highs, no lows, only Doge",2021-02-04 09:00:00,-0.9889109134674072,0.0,-0.6369,0,0,0,1
+273,2021-02-04T08:17:17.000Z,No need to be a gigachad to own,2021-02-04 09:00:00,0.9993194341659546,0.6,-0.296,0,0,0,0
+274,2021-02-04T08:15:26.000Z,Dogecoin is the people’s crypto,2021-02-04 09:00:00,-0.5758645534515381,0.0,0.0,0,0,1,1
+275,2021-02-04T07:57:30.000Z,ur welcome https://t.co/e2KF57KLxb elon supporting doge,2021-02-04 08:00:00,0.8929243087768555,0.525,0.7096,0,0,0,1
+276,2021-02-04T07:35:35.000Z,Doge,2021-02-04 08:00:00,-0.7126156687736511,0.0,0.0,0,0,0,1
+277,2021-02-04T07:29:09.000Z,https://t.co/vviUzWhodT doge going to the moon,2021-02-04 08:00:00,0.7217614650726318,0.0,0.0,0,0,0,1
+278,2021-02-04T07:09:30.000Z,This was a tough one https://t.co/beY7peFpCj,2021-02-04 08:00:00,-0.9146736860275269,-0.3888888888888889,-0.128,0,0,0,0
+279,2021-02-02T08:45:48.000Z,Off Twitter for a while,2021-02-02 09:00:00,-0.9991710186004639,0.0,0.0,0,0,0,0
+280,2021-02-01T23:21:08.000Z,It will be filled with graffiti art,2021-02-02 00:00:00,-0.997431218624115,0.4,0.0,0,0,0,0
+281,2021-02-01T23:17:40.000Z,Giga Berlin progress https://t.co/ekpG5qcbUi,2021-02-02 00:00:00,0.8756334781646729,0.0,0.4215,0,0,0,0
+282,2021-01-31T23:59:16.000Z,"If you’ve worked on advanced wearables, phones or robots, those skills are needed @neuralink",2021-02-01 00:00:00,0.8890367746353149,0.4,0.25,0,0,0,0
+283,2021-01-31T23:53:27.000Z,Feels weird helping make (hopefully good version of) Cyberpunk come true,2021-02-01 00:00:00,-0.8704058527946472,0.18333333333333332,0.7351,0,0,0,0
+284,2021-01-31T23:51:25.000Z,"Please consider working at Neuralink!
+
+Short-term: solve brain/spine injuries
+Long-term: human/AI symbiosis 
+
+Latter will be species-level important 
+
+Work at either at our Bay Area or Austin locations https://t.co/LPzDrWO8h3",2021-02-01 00:00:00,0.771750807762146,0.2,0.636,0,0,0,0
+285,2021-01-31T21:07:41.000Z,https://t.co/XcCoKOjYlt,2021-01-31 22:00:00,0.7420864701271057,0.0,0.0,0,0,0,0
+286,2021-01-31T20:56:10.000Z,On Clubhouse tonight at 10pm LA time,2021-01-31 21:00:00,0.6074082255363464,0.0,0.0,0,0,0,0
+287,2021-01-30T20:32:43.000Z,"Warm, sunny day &amp; snowy mountains https://t.co/2k8psyqU4J",2021-01-30 21:00:00,0.9983824491500854,0.6,0.5719,0,0,0,0
+288,2021-01-30T20:24:42.000Z,What a beautiful day in LA https://t.co/EsCJTbzO9D,2021-01-30 21:00:00,0.9966338276863098,0.85,0.5994,0,0,0,0
+289,2021-01-30T09:46:56.000Z,https://t.co/pyRCFE97Xp,2021-01-30 10:00:00,0.7161504626274109,0.0,0.0,0,0,0,0
+290,2021-01-29T20:44:02.000Z,Starship SN9 &amp; SN10 https://t.co/urtPJn7amo,2021-01-29 21:00:00,0.8884741067886353,0.0,0.0,0,0,0,0
+291,2021-01-29T08:22:15.000Z,"In retrospect, it was inevitable",2021-01-29 09:00:00,-0.9654140472412109,0.0,0.0,0,0,0,0
+292,2021-01-28T23:29:19.000Z,"With Cyberpunk, even the hotfixes literally have hotfixes, but … great game",2021-01-29 00:00:00,0.9985798597335815,0.2,0.7684,0,0,0,0
+293,2021-01-28T22:47:23.000Z,https://t.co/a6kmk0PEgM,2021-01-28 23:00:00,0.8994396924972534,0.0,0.0,0,0,0,0
+294,2021-01-28T20:39:53.000Z,"Here come the shorty apologists
+Give them no respect
+Get Shorty",2021-01-28 21:00:00,-0.9997459053993225,0.0,0.2263,0,0,0,0
+295,2021-01-28T20:34:26.000Z,"u can’t sell houses u don’t own
+u can’t sell cars u don’t own
+but 
+u *can* sell stock u don’t own!?
+this is bs – shorting is a scam
+legal only for vestigial reasons",2021-01-28 21:00:00,-0.9999339580535889,0.43,-0.68,0,0,0,0
+296,2021-01-28T11:54:19.000Z,The esthetics of Cyberpunk are incredible btw. The interior design is👌.,2021-01-28 12:00:00,0.9996932744979858,0.9,0.0,0,0,0,0
+297,2021-01-28T02:41:43.000Z,0 to 155mph trap speed in a 1/4 mile. 200mph top speed (with right tires).,2021-01-28 03:00:00,0.9960656762123108,0.39285714285714285,-0.128,0,0,0,0
+298,2021-01-28T02:35:55.000Z,First production car ever to achieve 0 to 60 mph in less than 2 seconds,2021-01-28 03:00:00,0.9817150831222534,0.04166666666666667,0.0,0,0,0,0
+299,2021-01-28T02:34:17.000Z,It can play Cyberpunk,2021-01-28 03:00:00,0.97376549243927,0.0,0.34,0,0,0,0
+300,2021-01-28T02:33:13.000Z,Plaid Model S ships next month https://t.co/HFUPTnQiPB,2021-01-28 03:00:00,-0.9938203692436218,0.0,0.0,0,0,0,0
+301,2021-01-28T01:57:30.000Z,Even Discord has gone corpo …,2021-01-28 02:00:00,-0.9739052057266235,0.0,-0.4019,0,0,0,0
+302,2021-01-26T22:59:59.000Z,https://t.co/F23fxQkBCE,2021-01-26 23:00:00,0.9760608077049255,0.0,0.0,0,0,0,0
+303,2021-01-26T21:08:02.000Z,"Gamestonk!! 
+https://t.co/RZtkDzAewJ",2021-01-26 22:00:00,0.9896558523178101,0.0,0.0,0,0,0,0
+304,2021-01-26T11:32:55.000Z,Bought a hand knit wool Marvin the Martian helm for my dog,2021-01-26 12:00:00,0.9497504234313965,0.0,0.4939,0,0,0,1
+305,2021-01-26T11:28:08.000Z,https://t.co/gpcvjIBTLM,2021-01-26 12:00:00,0.9332339763641357,0.0,0.0,0,0,0,0
+306,2021-01-26T11:25:23.000Z,I kinda love Etsy,2021-01-26 12:00:00,0.9843205213546753,0.5,0.6003,0,0,0,0
+307,2021-01-24T19:46:26.000Z,Under Vegas in @boringcompany tunnel yesterday with my boys https://t.co/tLfOuiEdFm,2021-01-24 20:00:00,-0.9982261061668396,0.0,0.0,0,0,0,0
+308,2021-01-22T23:17:20.000Z,Launching many small satellites for a wide range of customers tomorrow. Excited about offering low-cost access to orbit for small companies! https://t.co/NrXmBML747,2021-01-23 00:00:00,0.9979838132858276,0.0425,0.4003,0,0,0,0
+309,2021-01-21T23:08:47.000Z,Details next week,2021-01-22 00:00:00,-0.7596752643585205,0.0,0.0,0,0,0,0
+310,2021-01-21T23:08:35.000Z,Am donating $100M towards a prize for best carbon capture technology,2021-01-22 00:00:00,-0.9999107122421265,1.0,0.8176,0,0,0,0
+311,2021-01-18T05:52:28.000Z,Battery cell production is the fundamental rate-limiter slowing down a sustainable energy future. Very important problem. https://t.co/MYOUSAC2AK,2021-01-18 06:00:00,-0.9988024234771729,0.12148148148148148,0.0553,0,0,0,0
+312,2021-01-15T06:44:22.000Z,"Monty Python is amazing
+https://t.co/UJq94IWT88",2021-01-15 07:00:00,0.9953624606132507,0.6000000000000001,0.5859,0,0,0,0
+313,2021-01-13T21:47:02.000Z,All three static fires completed &amp; no RUDs!,2021-01-13 22:00:00,0.9998353719711304,0.625,-0.3595,0,0,0,0
+314,2021-01-13T21:20:05.000Z,https://t.co/ho7yGXAS3a,2021-01-13 22:00:00,-0.5468645691871643,0.0,0.0,0,0,0,0
+315,2021-01-13T19:06:00.000Z,"Today at SpaceX is about practicing Starship engine starts. Ship is held down by massive pins while engines are fired. Two starts completed, about to try a third.",2021-01-13 20:00:00,-0.9971211552619934,-0.051851851851851864,-0.5574,0,0,0,0
+316,2021-01-13T09:25:42.000Z,Legalize comedy,2021-01-13 10:00:00,-0.9758169054985046,0.0,0.3612,0,0,0,0
+317,2021-01-12T23:02:33.000Z,"Hey you …
+Yeah you Queen …
+You’re gonna make it! 💕💕 https://t.co/LrqdIrbIyd",2021-01-13 00:00:00,0.9973011612892151,0.0,0.3595,0,0,0,0
+318,2021-01-12T11:55:35.000Z,https://t.co/TKkruvgBth https://t.co/ocy2gFRYvN,2021-01-12 12:00:00,0.9006739854812622,0.0,0.0,0,0,0,0
+319,2021-01-12T11:24:55.000Z,Mus protec 👶 yoda https://t.co/1dvhG0nTkU,2021-01-12 12:00:00,0.7256224751472473,0.0,0.0,0,0,0,0
+320,2021-01-09T18:47:06.000Z,"My 14-year-old son, Saxon, said he feels like 2021 will be a good year. I agree. Let us all make it so.",2021-01-09 19:00:00,0.9915880560874939,0.7,0.7845,0,0,0,0
+321,2021-01-08T02:15:39.000Z,Launch underway https://t.co/wbk7ZZ0Fqx,2021-01-08 03:00:00,0.9805995225906372,0.0,0.0,0,0,0,0
+322,2021-01-08T01:35:53.000Z,"Btw, critical feedback is always super appreciated, as well as ways to donate money that really make a difference (way harder than it seems)",2021-01-08 02:00:00,0.9801069498062134,0.12666666666666668,0.7906,0,0,0,0
+323,2021-01-07T18:49:47.000Z,https://t.co/2ja38Z8MRE,2021-01-07 19:00:00,0.9330246448516846,0.0,0.0,0,0,0,0
+324,2021-01-07T12:56:10.000Z,Use Signal,2021-01-07 13:00:00,-0.5045293569564819,0.0,0.0,0,0,0,0
+325,2021-01-07T10:24:29.000Z,"As seen from an external observer, not the participants",2021-01-07 11:00:00,-0.9414646029472351,0.0,0.0,0,0,0,0
+326,2021-01-07T10:23:50.000Z,The most entertaining outcome is the most likely,2021-01-07 11:00:00,0.9988163709640503,0.375,0.4927,0,0,0,0
+327,2021-01-07T04:06:23.000Z,This is called the domino effect https://t.co/qpbEW54RvM,2021-01-07 05:00:00,-0.7918940186500549,0.0,0.0,0,0,0,0
+328,2021-01-04T20:57:05.000Z,"Because of the large footprint, it may seem flat, but actually ranges up to 5 stories tall",2021-01-04 21:00:00,0.545829176902771,0.0630952380952381,0.0,0,0,0,0
+329,2021-01-04T20:26:11.000Z,Snow falling on Giga Berlin https://t.co/eTXMtYp8hG,2021-01-04 21:00:00,-0.9482818841934204,0.0,-0.1531,0,0,0,0
+330,2021-01-02T14:51:49.000Z,"So proud of the Tesla team for achieving this major milestone! At the start of Tesla, I thought we had (optimistically) a 10% chance of surviving at all. https://t.co/xCqTL5TGlE",2021-01-02 15:00:00,0.9925314784049988,0.4390625,0.7836,0,0,0,0
+331,2020-12-31T05:47:38.000Z,Ignore the heading,2020-12-31 06:00:00,-0.9996790885925293,0.0,-0.3612,0,0,0,0
+332,2020-12-31T05:40:26.000Z,"Great interview with Mathias Döpfner
+https://t.co/ewnaHc4cH0",2020-12-31 06:00:00,0.9992052912712097,0.8,0.6249,0,0,0,0
+333,2020-12-30T09:51:07.000Z,Snake-head dog had my undivided attention until winder-head ostrich came gliding through all nonchalant https://t.co/dtPMdM3TQp,2020-12-30 10:00:00,0.9384983777999878,0.0,0.0,0,0,0,1
+334,2020-12-30T05:33:19.000Z,"Destiny, destiny
+No escaping 
+that for me",2020-12-30 06:00:00,0.951136589050293,0.0,-0.25,0,0,0,0
+335,2020-12-29T22:16:14.000Z,All Tesla cars delivered in the final three days of the year will get three months of the Full Self-Driving option for free. Delivery &amp; docs must be fully complete by midnight Dec 31st.,2020-12-29 23:00:00,-0.5168629884719849,0.2125,0.5106,0,0,0,0
+336,2020-12-29T21:32:09.000Z,The Last Kingdom show is great,2020-12-29 22:00:00,0.7869296073913574,0.4,0.6249,0,0,0,0
+337,2020-12-29T20:48:04.000Z,Not everything is made of cake https://t.co/oMaCmYQAwx,2020-12-29 21:00:00,-0.9224516153335571,0.0,0.0,0,0,0,0
+338,2020-12-29T20:40:49.000Z,Such a weird game when you think about it https://t.co/5MrvVzmeKG,2020-12-29 21:00:00,-0.9936094284057617,-0.3,-0.1779,0,0,0,0
+339,2020-12-29T20:37:54.000Z,This is not CGI https://t.co/VOivE97vPR,2020-12-29 21:00:00,-0.9999175071716309,0.0,0.0,0,0,0,0
+340,2020-12-28T19:46:18.000Z,Entertainment will be critical when cars drive themselves,2020-12-28 20:00:00,0.5749478936195374,0.0,0.128,0,0,0,0
+341,2020-12-28T17:23:31.000Z,What should Tesla do with in-car gaming in an autonomous world?,2020-12-28 18:00:00,-0.5819199681282043,0.4,0.0,0,0,0,0
+342,2020-12-27T22:18:58.000Z,Try playing Polytopia in your Tesla! Great game. Multiplayer online version coming soon.,2020-12-27 23:00:00,0.9982444047927856,0.2,0.7345,0,0,0,0
+343,2020-12-25T20:54:29.000Z,"Change your horn sound to 🐐, 🐍🎷, 💨 or holiday jingles with latest Tesla software update!",2020-12-25 21:00:00,-0.9600329995155334,0.5125,0.4574,0,0,0,0
+344,2020-12-25T16:47:04.000Z,Merry Christmas &amp; happy holidays! 🎁 https://t.co/uk6NSPwR9R doge,2020-12-25 17:00:00,0.9992154836654663,1.0,0.8777,0,0,0,1
+345,2020-12-24T01:12:41.000Z,12 story rocket turns off its engines &amp; does a controlled fall https://t.co/HCRgyx42rn,2020-12-24 02:00:00,-0.9952569603919983,0.0,0.0,0,0,0,0
+346,2020-12-24T00:00:41.000Z,"To Tesla owners taking delivery in the final days of year, your support is super appreciated!!",2020-12-24 01:00:00,0.9751758575439453,0.21527777777777776,0.8881,0,0,0,0
+347,2020-12-21T13:04:16.000Z,Thanks to everyone who worked so hard to make Tesla successful. My heart goes out to you.,2020-12-21 14:00:00,0.9973771572113037,0.21944444444444444,0.7035,0,0,0,0
+348,2020-12-20T10:16:43.000Z,♥️ i love all u crazy ppl out there ♥️,2020-12-20 11:00:00,0.9989469647407532,-0.04999999999999999,0.4215,0,0,0,0
+349,2020-12-20T09:44:03.000Z,"Come for the comments, 
+stay for the memes💄",2020-12-20 10:00:00,-0.9759688973426819,0.0,0.0,0,0,0,0
+350,2020-12-20T09:30:04.000Z,One word: Doge,2020-12-20 10:00:00,-0.8518760800361633,0.0,0.0,0,0,0,1
+351,2020-12-20T09:24:37.000Z,Bitcoin is almost as bs as fiat money,2020-12-20 10:00:00,-0.9999181032180786,0.0,0.0,0,0,1,0
+352,2020-12-20T08:54:26.000Z,https://t.co/EbOjGshvrq bitcoin tempting buy,2020-12-20 09:00:00,0.7273338437080383,0.0,0.0,0,0,1,0
+353,2020-12-20T08:43:06.000Z,“Lord” Edge,2020-12-20 09:00:00,0.8616753816604614,0.0,0.0,0,0,0,0
+354,2020-12-20T08:40:34.000Z,"Just kidding, who needs a safe word anyway!?",2020-12-20 09:00:00,0.9932675361633301,0.625,0.5562,0,0,0,0
+355,2020-12-20T08:21:25.000Z,Bitcoin is my safe word,2020-12-20 09:00:00,0.5870204567909241,0.5,0.4404,0,0,1,0
+356,2020-12-17T06:32:13.000Z,"Star Light, Star Bright https://t.co/6CeTAZSXCO",2020-12-17 07:00:00,0.9978779554367065,0.55,0.4404,0,0,0,0
+357,2020-12-14T16:15:57.000Z,Ascent to the Heavens https://t.co/oGgsw88YRZ,2020-12-14 17:00:00,0.9996218681335449,0.0,0.4019,0,0,0,0
+358,2020-12-14T15:12:18.000Z,Hehe https://t.co/SkLMiL3OxT,2020-12-14 16:00:00,0.7410020232200623,0.0,0.0,0,0,0,0
+359,2020-12-14T06:51:16.000Z,https://t.co/sdmXKbHdzd,2020-12-14 07:00:00,0.9001295566558838,0.0,0.0,0,0,0,0
+360,2020-12-14T06:11:07.000Z,https://t.co/qbNT1dUsED,2020-12-14 07:00:00,0.5958526730537415,0.0,0.0,0,0,0,0
+361,2020-12-10T00:10:39.000Z,"Thank you, South Texas for your support! This is the gateway to Mars.",2020-12-10 01:00:00,0.9872545599937439,0.0,0.6696,0,0,0,0
+362,2020-12-10T00:08:40.000Z,"Life, the Universe and Everything https://t.co/1ZCzInfc4u",2020-12-10 01:00:00,0.9863073229789734,0.0,0.0,0,0,0,0
+363,2020-12-09T23:08:53.000Z,"Mars, here we come!!",2020-12-10 00:00:00,0.9996881484985352,0.0,0.0,0,0,0,0
+364,2020-12-09T23:07:39.000Z,"Fuel header tank pressure was low during landing burn, causing touchdown velocity to be high &amp; RUD, but we got all the data we needed! Congrats SpaceX team hell yeah!!",2020-12-10 00:00:00,0.9990567564964294,0.15625,-0.4635,0,0,0,0
+365,2020-12-09T23:02:34.000Z,"Successful ascent, switchover to header tanks &amp; precise flap control to landing point! https://t.co/IIraiESg5M",2020-12-10 00:00:00,0.9998413324356079,0.625,0.6239,0,0,0,0
+366,2020-12-08T16:44:50.000Z,"“So long, and thanks for the orifice!”
+- Alien message decrypted",2020-12-08 17:00:00,-0.9680269360542297,-0.016666666666666663,0.4926,0,0,0,0
+367,2020-12-07T20:13:07.000Z,Out on the pad in South Texas https://t.co/RcYOXXpTc2,2020-12-07 21:00:00,0.516779899597168,0.0,0.0,0,0,0,0
+368,2020-12-07T04:37:42.000Z,100,2020-12-07 05:00:00,0.975184440612793,0.0,0.0,0,0,0,0
+369,2020-12-06T21:30:33.000Z,"Im Gespräch mit Mathias Döpfner 
+
+https://t.co/bqa5pIAOnk",2020-12-06 22:00:00,0.8345403671264648,0.0,0.0,0,0,0,0
+370,2020-12-03T23:30:34.000Z,Watch Demolition Man,2020-12-04 00:00:00,0.9908135533332825,0.0,0.0,0,0,0,0
+371,2020-12-03T23:19:57.000Z,Prometheus Unbound,2020-12-04 00:00:00,0.7058497667312622,0.0,0.0,0,0,0,0
+372,2020-12-02T03:19:28.000Z,"Much of what people think of an science is actually engineering, eg no such thing as a “rocket scientist”, only rocket engineers. Latter is who put humans on the moon.",2020-12-02 04:00:00,0.9821521639823914,0.04,-0.296,0,0,0,0
+373,2020-12-02T03:13:25.000Z,"Science is discovering the essential truths about what exists in the Universe, engineering is about creating things that never existed
+https://t.co/aIEUtHoPxM",2020-12-02 04:00:00,0.9732084274291992,0.0,0.6124,0,0,0,0
+374,2020-11-26T15:12:00.000Z,Happy Thanksgiving!,2020-11-26 16:00:00,0.998372495174408,1.0,0.6114,0,0,0,0
+375,2020-11-25T20:38:25.000Z,.@TheBabylonBee is savage 🤣🤣,2020-11-25 21:00:00,-0.9946369528770447,0.0,-0.4588,0,0,0,0
+376,2020-11-25T02:12:17.000Z,"This is a life leader launch, so more risk than normal https://t.co/EtFP9IELrf",2020-11-25 03:00:00,0.9561697244644165,0.325,-0.3962,0,0,0,0
+377,2020-11-24T23:59:27.000Z,"Good Starship SN8 static fire! Aiming for first 15km / ~50k ft altitude flight next week. Goals are to test 3 engine ascent, body flaps, transition from main to header tanks &amp; landing flip.",2020-11-25 00:00:00,0.9999393224716187,0.34833333333333333,0.2003,0,0,0,0
+378,2020-11-22T03:42:11.000Z,"Tomorrow will be the 7th flight of this rocket, landing on droneship Of Course I Still Love You",2020-11-22 04:00:00,0.9992164373397827,0.5,0.6369,0,0,0,0
+379,2020-11-21T17:34:45.000Z,Landing at Vandenberg AFB in California https://t.co/46J2GcCjP0,2020-11-21 18:00:00,0.9427943825721741,0.0,0.0,0,0,0,0
+380,2020-11-21T16:30:40.000Z,"Well, almost anything https://t.co/FFPVDsqruC",2020-11-21 17:00:00,0.7935892343521118,0.0,0.2732,0,0,0,0
+381,2020-11-21T14:44:07.000Z,Quite the day ahead https://t.co/apZNgmo0k7,2020-11-21 15:00:00,0.9852162599563599,0.0,0.0,0,0,0,0
+382,2020-11-18T07:41:37.000Z,Tesla holiday software release is 🔥🔥,2020-11-18 08:00:00,-0.6765912175178528,0.0,0.4019,0,0,0,0
+383,2020-11-18T07:09:54.000Z,Cobra Kai is a deep cut,2020-11-18 08:00:00,0.9868484139442444,0.0,-0.2732,0,0,0,0
+384,2020-11-17T22:07:17.000Z,Deus ex machine learning https://t.co/5ZSYalVczx,2020-11-17 23:00:00,-0.9796602129936218,0.0,0.0,0,0,0,0
+385,2020-11-17T19:20:28.000Z,Nullius in Verba @royalsociety,2020-11-17 20:00:00,-0.9996107220649719,0.0,0.0,0,0,0,0
+386,2020-11-16T01:09:01.000Z,♥️,2020-11-16 02:00:00,0.9785839915275574,0.0,0.0,0,0,0,0
+387,2020-11-16T00:23:02.000Z,Launch in 5 minutes,2020-11-16 01:00:00,0.9947981834411621,0.0,0.0,0,0,0,0
+388,2020-11-16T00:00:41.000Z,"The same propellant is used either for abort or for orbital maneuvering, as one use obviates the other",2020-11-16 01:00:00,-0.9846109747886658,-0.0625,0.0,0,0,0,0
+389,2020-11-15T23:58:27.000Z,"Dragon can also hover &amp; land propulsively, but we use the parachutes for maximum safety https://t.co/Mr7VFIQwWf",2020-11-16 00:00:00,0.9407969117164612,0.0,0.5719,0,0,0,0
+390,2020-11-15T23:55:43.000Z,"Thrusters are integrated with spacecraft, enabling abort capability all the way to abort for increased safety https://t.co/KrOHKOr6AE",2020-11-16 00:00:00,0.9997935891151428,0.0,0.5994,0,0,0,0
+391,2020-11-15T14:13:45.000Z,Astronaut launch today! https://t.co/3FAzZGss8c,2020-11-15 15:00:00,0.9992616772651672,0.0,0.0,0,0,0,0
+392,2020-11-15T02:52:28.000Z,Worth reading this thread if you’re curious about rona testing https://t.co/FA6kD61eBA,2020-11-15 03:00:00,0.9753558039665222,0.09999999999999999,0.4939,0,0,0,0
+393,2020-11-14T20:13:06.000Z,Unless you’re on DMT,2020-11-14 21:00:00,-0.9256756901741028,0.0,0.0,0,0,0,0
+394,2020-11-14T20:11:13.000Z,"Laws of thermodynamics:
+1. You can’t win
+2. You can’t break even
+3. You can’t stop playing",2020-11-14 21:00:00,0.9997319579124451,0.8,0.5267,0,0,0,0
+395,2020-11-14T19:51:56.000Z,Shakes fist at entropy,2020-11-14 20:00:00,-0.9846432209014893,0.0,0.0,0,0,0,0
+396,2020-11-13T23:22:43.000Z,Case closed https://t.co/pUYiJcAdD6,2020-11-14 00:00:00,-0.9315099120140076,-0.1,0.0,0,0,0,0
+397,2020-11-13T23:15:38.000Z,Soon https://t.co/mWOpR7W8kk,2020-11-14 00:00:00,0.7001374363899231,0.0,0.0,0,0,0,0
+398,2020-11-13T21:47:44.000Z,Lab I just spoke to said cov2 PCR detection (N1 &amp; N3 genes) below 30 cycles is reliable &amp; above 40 cycles is not,2020-11-13 22:00:00,-0.9937250018119812,0.0,0.0,0,0,0,0
+399,2020-11-13T17:41:59.000Z,"Would be great to hear from people who know a lot about the PCR testing industry. What’s the approximate false positive rate, all things considered, for cov2 PCR tests?",2020-11-13 18:00:00,0.9451178312301636,0.0568181818181818,0.8271,0,0,0,0
+400,2020-11-13T16:28:32.000Z,What is the general population (no knowledge of symptoms) accuracy of a sars-cov2 PCR test &amp; is it possible to generate a false positive if you simply run enough cycles?,2020-11-13 17:00:00,-0.9992953538894653,-0.020454545454545472,0.5574,0,0,0,0
+401,2020-11-13T06:11:57.000Z,The carousel turns ever faster,2020-11-13 07:00:00,-0.923726499080658,0.0,0.0,0,0,0,0
+402,2020-11-13T05:47:11.000Z,"Something extremely bogus is going on. Was tested for covid four times today. Two tests came back negative, two came back positive. Same machine, same test, same nurse. Rapid antigen test from BD.",2020-11-13 06:00:00,-0.999951958656311,-0.02471590909090909,-0.0258,0,0,0,0
+403,2020-11-12T15:34:36.000Z,4 Astronauts fly to @Space_Station on Sat night from Cape. First operational flight of Crew Dragon. https://t.co/uZCGiKciKb,2020-11-12 16:00:00,0.9929352402687073,0.525,0.0,0,0,0,0
+404,2020-11-10T21:24:38.000Z,Such a privilege to work with people I like &amp; respect so much. I feel blessed.,2020-11-10 22:00:00,0.988262951374054,0.1,0.9055,0,0,0,0
+405,2020-11-09T18:03:19.000Z,https://t.co/d0i2w8wNKG,2020-11-09 19:00:00,-0.5254361033439636,0.0,0.0,0,0,0,0
+406,2020-11-09T16:57:33.000Z,"Yes, you can have my damn cookie! should be a browser setting",2020-11-09 17:00:00,0.9995291233062744,0.0,0.0,0,0,0,0
+407,2020-11-07T18:26:27.000Z,"The Phantom of the Opera 
+Is here … inside your mind",2020-11-07 19:00:00,0.9876248836517334,0.0,0.0,0,0,0,0
+408,2020-11-06T15:31:07.000Z,"When sending your resume, please describe a few of the hardest problems you solved &amp; exactly how you solved them",2020-11-06 16:00:00,0.8072776794433594,0.024999999999999994,0.4215,0,0,0,0
+409,2020-11-06T10:36:02.000Z,"A New Banner is needed
+Neither hard left nor right",2020-11-06 11:00:00,0.9619539976119995,0.03260281385281384,0.0762,0,0,0,0
+410,2020-11-06T06:10:41.000Z,420 is ten times better than 42,2020-11-06 07:00:00,0.7892435193061829,0.25,0.4404,0,0,0,0
+411,2020-11-06T05:55:31.000Z,🤗,2020-11-06 06:00:00,-0.7614845037460327,0.0,0.0,0,0,0,0
+412,2020-11-05T09:31:58.000Z,Recruiting ace engineers for Giga Berlin! Will interview in person tomorrow on site. Send resume to 25Guns@Tesla.com.,2020-11-05 10:00:00,-0.9786998629570007,0.0,0.0,0,0,0,0
+413,2020-11-02T19:36:28.000Z,Several thousand more Starlink beta participation invitations going out this week,2020-11-02 20:00:00,-0.7729365229606628,0.25,0.0,0,0,0,0
+414,2020-11-02T15:39:45.000Z,Very close to actual expected flight! https://t.co/ruEdIPhTil,2020-11-02 16:00:00,0.9960071444511414,0.025000000000000005,0.0,0,0,0,0
+415,2020-11-01T21:05:06.000Z,Penguin Random House 😴 should change the name to Random Penguin🔥,2020-11-01 22:00:00,-0.9985533356666565,-0.5,0.0,0,0,0,0
+416,2020-10-29T04:45:51.000Z,"Truth be told, I’ve eaten at JitB many times over the years, even the teriyaki bowl",2020-10-29 05:00:00,0.998764157295227,0.5,0.3182,0,0,0,0
+417,2020-10-29T04:40:07.000Z,Might buy a Jack in the Box footstool,2020-10-29 05:00:00,-0.964016318321228,0.0,0.0,0,0,0,0
+418,2020-10-29T00:11:03.000Z,Tesla should make 🔥 catgirl robots?,2020-10-29 01:00:00,-0.9995922446250916,0.0,0.0,0,0,0,0
+419,2020-10-28T03:08:02.000Z,"Come here … no, come, here 👇",2020-10-28 04:00:00,-0.9703333973884583,0.0,-0.296,0,0,0,0
+420,2020-10-28T03:02:07.000Z,"Wow, this mayo sure is salty!",2020-10-28 04:00:00,-0.9999539852142334,0.3625,0.75,0,0,0,0
+421,2020-10-28T02:18:17.000Z,Jack in the Box should do double duty as a sperm donor clinic — name is 👌,2020-10-28 03:00:00,0.6624408960342407,0.0,0.0,0,0,0,0
+422,2020-10-24T22:46:56.000Z,Congratulations SpaceX Team! https://t.co/nO1Z98a94f,2020-10-24 23:00:00,0.9990560412406921,0.0,0.636,0,0,0,0
+423,2020-10-22T22:00:02.000Z,Price change is pushed to Thursday next week. Applies only to US for now. One week clock will start in other countries as beta is released. FSD monthly rental will also be available sometime next year.,2020-10-22 23:00:00,-0.9996581077575684,0.05500000000000001,0.0,0,0,0,0
+424,2020-10-22T06:30:28.000Z,"Now that Tesla FSD beta is out in limited release, FSD price (new or upgrade) will go up by ~$2k on Monday",2020-10-22 07:00:00,-0.9943398833274841,0.032467532467532464,-0.2263,0,0,0,0
+425,2020-10-21T20:13:20.000Z,"Starship nosecone, high bay &amp; tiki bar https://t.co/9qXYxMMIUj",2020-10-21 21:00:00,0.8076760172843933,0.16,0.0,0,0,0,0
+426,2020-10-20T22:19:31.000Z,"FSD beta rollout happening tonight. Will be extremely slow &amp; cautious, as it should.",2020-10-20 23:00:00,-0.7728515267372131,-0.30000000000000004,-0.1689,0,0,0,0
+427,2020-10-20T22:17:05.000Z,Data from 3 engine Starship static fire this morning looks good. Proceeding with nosecone mate.,2020-10-20 23:00:00,0.815684974193573,0.6,0.128,0,0,0,0
+428,2020-10-16T17:30:45.000Z,møtør trèndé https://t.co/V0yo4JKbS2,2020-10-16 18:00:00,0.7930875420570374,0.0,0.0,0,0,0,0
+429,2020-10-14T19:01:19.000Z,"The gauntlet has been thrown down! 
+
+The prophecy will be fulfilled. 
+
+Model S price changes to $69,420 tonight!",2020-10-14 20:00:00,-0.9733095169067383,-0.24305555555555558,0.5242,0,0,0,0
+430,2020-10-14T09:28:14.000Z,9 meter or roughly 30 ft diameter,2020-10-14 10:00:00,-0.9658447504043579,-0.1,0.0,0,0,0,0
+431,2020-10-14T09:24:55.000Z,Will be less roomy with 3 vacuum rocket engines added https://t.co/pKtDFdiZYC,2020-10-14 10:00:00,-0.7774402499198914,-0.0875,0.0,0,0,0,0
+432,2020-10-14T04:27:00.000Z,“What is love? Baby don’t hurt me.”— Winston Churchill,2020-10-14 05:00:00,0.9947326183319092,0.5,0.2023,0,0,0,0
+433,2020-10-13T05:36:46.000Z,🤘 The Illuminaughty 🤘,2020-10-13 06:00:00,-0.9552106261253357,0.0,0.0,0,0,0,0
+434,2020-10-06T11:44:54.000Z,4th flight &amp; landing for this booster https://t.co/UOtvMkgXqH,2020-10-06 12:00:00,0.9994202852249146,0.0,0.0,0,0,0,0
+435,2020-10-06T11:24:42.000Z,5 minutes from launch. Looks good so far. https://t.co/on2f1pY5jt,2020-10-06 12:00:00,0.9844558238983154,0.39999999999999997,0.4404,0,0,0,0
+436,2020-10-05T23:42:20.000Z,"Turn volume to 11 &amp; play Powerglide in your Tesla 
+
+https://t.co/l07Yc02P7g",2020-10-06 00:00:00,0.9984394907951355,0.0,0.34,0,0,0,0
+437,2020-10-05T23:22:49.000Z,"Music volume on a Tesla goes to 11, because it’s louder than 10
+
+https://t.co/ab5hAMo3EN",2020-10-06 00:00:00,-0.9929962754249573,0.0,0.0,0,0,0,0
+438,2020-10-05T22:38:33.000Z,Rewatched Young Frankenstein this weekend. Still awesome. Ovaltine? https://t.co/WiMdyFSuiq,2020-10-05 23:00:00,0.9976325035095215,0.55,0.6249,0,0,0,0
+439,2020-10-05T22:21:07.000Z,"Hollywood should just start with the sequel &amp; skip the original, because financials",2020-10-05 23:00:00,-0.9990324974060059,0.375,0.3182,0,0,0,0
+440,2020-10-04T14:23:38.000Z,New SpaceX droneship will be called “A Shortfall of Gravitas”,2020-10-04 15:00:00,-0.9456548094749451,0.13636363636363635,0.0,0,0,0,0
+441,2020-10-04T14:05:42.000Z,"Nothing can escape gravity, not even black holes (and they really tried!)",2020-10-04 15:00:00,-0.9985191226005554,0.04166666666666667,-0.2047,0,0,0,0
+442,2020-10-04T00:12:06.000Z,"Call of Booty, great game",2020-10-04 01:00:00,0.9979617595672607,0.2,0.6249,0,0,0,0
+443,2020-10-04T00:04:41.000Z,https://t.co/HyfszSrm6m,2020-10-04 01:00:00,0.9790980815887451,0.0,0.0,0,0,0,0
+444,2020-09-26T23:39:31.000Z,https://t.co/r1Sox7vta8,2020-09-27 00:00:00,0.8060491681098938,0.0,0.0,0,0,0,0
+445,2020-09-26T19:44:56.000Z,"Thanks Tesla Team for great work on deliveries! For new owners, we super appreciate accommodating us on delivery timing! Definitely one of our toughest quarters in global logistics.",2020-09-26 20:00:00,0.9973257780075073,0.29217171717171714,0.9484,0,0,0,0
+446,2020-09-26T17:41:21.000Z,"First flight is to 15km or ~50,000 ft",2020-09-26 18:00:00,0.6439574360847473,0.25,0.0,0,0,0,0
+447,2020-09-26T17:38:09.000Z,Nosecone &amp; front flaps next week. SN9 next month.,2020-09-26 18:00:00,-0.99997878074646,0.0,0.0,0,0,0,0
+448,2020-09-26T17:36:31.000Z,Starship SN8 with rear body flaps https://t.co/GdxMbzX0ct,2020-09-26 18:00:00,-0.5451546907424927,0.0,0.0,0,0,0,0
+449,2020-09-26T01:52:11.000Z,Centaur with a bow obviously https://t.co/cfKfkFFXp0,2020-09-26 02:00:00,0.9347279071807861,0.0,0.0,0,0,0,0
+450,2020-09-25T07:12:20.000Z,What can’t we predict?,2020-09-25 08:00:00,0.7676216959953308,0.0,0.0,0,0,0,0
+451,2020-09-24T16:57:39.000Z,Only thing beyond ludicrous is plaid https://t.co/rHuWk20EGG,2020-09-24 17:00:00,0.5304968953132629,0.0,-0.3612,0,0,0,0
+452,2020-09-23T00:28:04.000Z,"Cybertruck, ATV, Roadster &amp; Semi
+C A R S https://t.co/4Aq1A5cYkH",2020-09-23 01:00:00,0.9940359592437744,0.0,0.0,0,0,0,0
+453,2020-09-22T05:56:48.000Z,"The extreme difficulty of scaling production of new technology is not well understood. It’s 1000% to 10,000% harder than making a few prototypes. The machine that makes the machine is vastly harder than the machine itself.",2020-09-22 06:00:00,-0.9999326467514038,-0.07772727272727273,-0.4963,0,0,0,0
+454,2020-09-21T21:00:46.000Z,"We intend to increase, not reduce battery cell purchases from Panasonic, LG &amp; CATL (possibly other partners too). However, even with our cell suppliers going at maximum speed, we still foresee significant shortages in 2022 &amp; beyond unless we also take action ourselves.",2020-09-21 22:00:00,-0.9924036264419556,0.11666666666666665,0.3612,0,0,0,0
+455,2020-09-21T20:56:52.000Z,"Important note about Tesla Battery Day unveil tomorrow. This affects long-term production, especially Semi, Cybertruck &amp; Roadster, but what we announce will not reach serious high-volume production until 2022.",2020-09-21 21:00:00,-0.9272198677062988,0.022222222222222237,0.1586,0,0,0,0
+456,2020-09-19T17:19:33.000Z,"A prior track record of exceptional achievement in engineering *is* required, but *no* prior experience working on the brain or human physiology is required. We will teach you what’s known about the brain, which is not much tbh.",2020-09-19 18:00:00,0.9989168643951416,0.11333333333333333,0.0,0,0,0,0
+457,2020-09-19T17:08:00.000Z,"If you feel Neuralink might have incorrectly overlooked your resume or declined to  make an offer, please lmk in comment below https://t.co/G81RblBZ0Z",2020-09-19 18:00:00,-0.998514711856842,0.0,0.296,0,0,0,0
+458,2020-09-18T16:22:25.000Z,of course I still love you,2020-09-18 17:00:00,0.9952725768089294,0.5,0.6369,0,0,0,0
+459,2020-09-17T07:15:03.000Z,Speedrunning Factorio in real life …,2020-09-17 08:00:00,0.9989180564880371,0.2,0.0,0,0,0,0
+460,2020-09-16T20:18:25.000Z,Fallout Shelter is on your Tesla. Tap the Entertainment button.,2020-09-16 21:00:00,0.8540588617324829,0.0,0.4215,0,0,0,0
+461,2020-09-16T19:39:43.000Z,"🖤 Fallout Radio  🖤
+https://t.co/gNo8XFjx8b",2020-09-16 20:00:00,-0.9995852112770081,0.0,0.0,0,0,0,0
+462,2020-09-16T19:19:13.000Z,Doubles as an underground nuclear shelter 😀👍 https://t.co/CvI0YRjObE,2020-09-16 20:00:00,-0.830589771270752,0.0,0.0,0,0,0,0
+463,2020-09-15T21:13:39.000Z,Story of my life,2020-09-15 22:00:00,0.994584858417511,0.0,0.0,0,0,0,0
+464,2020-09-15T21:12:54.000Z,https://t.co/Vn0Rv0yQ5q,2020-09-15 22:00:00,0.8938031196594238,0.0,0.0,0,0,0,0
+465,2020-09-15T20:29:38.000Z,"Tunnels under cities with self-driving electric cars will feel like warp drive
+
+First operational tunnel under Vegas almost done
+
+The @BoringCompany",2020-09-15 21:00:00,-0.9998031258583069,0.25,0.3612,0,0,0,0
+466,2020-09-15T20:14:00.000Z,Have you hugged a tunnel today?,2020-09-15 21:00:00,-0.9759775400161743,0.0,0.4019,0,0,0,0
+467,2020-09-15T16:09:45.000Z,Embrace tunnels!,2020-09-15 17:00:00,0.9959367513656616,0.0,0.3802,0,0,0,0
+468,2020-09-12T17:40:23.000Z,"One way or another, excitement guaranteed! Support of greater Boca, Padre, Brownsville community is very much appreciated.",2020-09-12 18:00:00,0.9968138337135315,0.35,0.9056,0,0,0,0
+469,2020-09-12T17:37:36.000Z,"SN8 Starship with flaps &amp; nosecone should be done in about a week. Then static fire, checkouts, static fire, fly to 60,000 ft &amp; back.",2020-09-12 18:00:00,-0.7933086156845093,0.45,-0.5859,0,0,0,0
+470,2020-09-11T15:45:06.000Z,Many exciting things will be unveiled on Battery Day 9/22 ⚡️,2020-09-11 16:00:00,0.9922621250152588,0.4,0.4939,0,0,0,0
+471,2020-09-10T21:49:27.000Z,Bitte arbeiten Sie bei Tesla Giga Berlin! Es wird super Spaß machen!! https://t.co/FcNoPr2oII,2020-09-10 22:00:00,0.9804888963699341,0.5208333333333333,0.6981,0,0,0,0
+472,2020-09-09T21:09:06.000Z,Tesla Model S &amp; X have hospital-grade (HEPA) air filters. 3 &amp; Y are really good too. This has a big effect on health. https://t.co/48s5D3IfWs,2020-09-09 22:00:00,0.9848011136054993,0.35,0.4927,0,0,0,0
+473,2020-09-08T16:53:54.000Z,A la guerre comme à la guerre,2020-09-08 17:00:00,0.9696827530860901,0.0,0.0,0,0,0,0
+474,2020-09-07T22:46:50.000Z,"If you bombard Earth with enough photons, eventually it emits a Tesla (AK)",2020-09-07 23:00:00,-0.7521503567695618,0.0,0.0,0,0,0,0
+475,2020-09-04T05:41:19.000Z,Model 3 rated as most reliable car https://t.co/26DAGJLTDY,2020-09-04 06:00:00,0.9983199238777161,0.5,0.0,0,0,0,0
+476,2020-09-04T05:02:34.000Z,Turns out you can make anything fly haha https://t.co/FJdHqRdVDb,2020-09-04 06:00:00,-0.8021633625030518,0.5,0.4588,0,0,0,0
+477,2020-09-03T22:25:56.000Z,"🇩🇪🖤Giga Berlin Mannschaft🖤🇩🇪
+Vielen Dank für Ihre hervorragende Arbeit an Giga Berlin!! https://t.co/KVo5mBfnXt",2020-09-03 23:00:00,0.9450444579124451,0.0,0.0,0,0,0,0
+478,2020-09-03T22:04:40.000Z,Great trip to Germany. Support from government &amp; people is super appreciated!,2020-09-03 23:00:00,0.9943426847457886,0.4611111111111111,0.9359,0,0,0,0
+479,2020-08-31T18:37:39.000Z,https://t.co/oVaoHsg1of,2020-08-31 19:00:00,0.7331814169883728,0.0,0.0,0,0,0,0
+480,2020-08-30T16:00:31.000Z,Just learned that my physics prof from Penn is head of Fermilab &amp; still has some of my old homework ☺️,2020-08-30 17:00:00,0.9849573373794556,0.1,0.0,0,0,0,0
+481,2020-08-29T01:02:05.000Z,Conceptual telepathy,2020-08-29 02:00:00,0.963519275188446,0.0,0.0,0,0,0,0
+482,2020-08-28T22:32:20.000Z,Ahem … starting soon https://t.co/eCGHH5stOn,2020-08-28 23:00:00,0.6118345260620117,0.0,0.0,0,0,0,0
+483,2020-08-28T19:37:40.000Z,"“All of physics is either impossible or trivial. It is impossible until you understand it, and then it becomes trivial.” E Rutherford",2020-08-28 20:00:00,0.9753214120864868,-0.6666666666666666,-0.0258,0,0,0,0
+484,2020-08-28T19:05:17.000Z,Neuralink product demo in 3 hours. Webcast at https://t.co/Y9wREd78oj.,2020-08-28 20:00:00,-0.772124171257019,0.0,0.0,0,0,0,0
+485,2020-08-27T05:42:01.000Z,"The Big Bang started very, very smōl https://t.co/XVvcuALZ2o https://t.co/8R92iEXVvN",2020-08-27 06:00:00,-0.9999682903289795,0.13,0.0,0,0,0,0
+486,2020-08-27T04:37:06.000Z,Should we believe things proportionate to the evidence that they are true? (yes),2020-08-27 05:00:00,0.7448474168777466,0.35,0.4215,0,0,0,0
+487,2020-08-27T03:39:50.000Z,Olde skoole analog synthesizer from ancient Britain https://t.co/JG0fI3ChxC,2020-08-27 04:00:00,0.9944933652877808,0.0,0.0,0,0,0,0
+488,2020-08-26T05:39:46.000Z,Lengthy background on Neuralink by @waitbutwhy https://t.co/z2YfAupDRD,2020-08-26 06:00:00,-0.962242841720581,0.0,0.0,0,0,0,0
+489,2020-08-26T05:35:58.000Z,"Live webcast of working @Neuralink device
+Friday 3pm Pacific https://t.co/PouLbrGzFU",2020-08-26 06:00:00,0.6519337892532349,0.13636363636363635,0.0,0,0,0,0
+490,2020-08-21T15:27:45.000Z,A metaphor for life https://t.co/CdlL4ieLju,2020-08-21 16:00:00,0.9811630845069885,0.0,0.0,0,0,0,0
+491,2020-08-20T19:11:02.000Z,More fun games coming soon to ur Tesla https://t.co/zBdYGOuHsz,2020-08-20 20:00:00,0.5466430187225342,0.4,0.5563,0,0,0,0
+492,2020-08-20T19:09:35.000Z,https://t.co/hKpWJnXsFc strikes again!,2020-08-20 20:00:00,-0.9405909776687622,0.0,-0.4199,0,0,0,0
+493,2020-08-20T08:17:54.000Z,New Tesla feature coming that enables your car to play snake jazz or Polynesian elevator music through its outside speakers wherever you go,2020-08-20 09:00:00,0.9998395442962646,0.06818181818181818,0.34,0,0,0,0
+494,2020-08-20T08:13:11.000Z,https://t.co/Bki5SOOroe,2020-08-20 09:00:00,-0.6243489980697632,0.0,0.0,0,0,0,0
+495,2020-08-20T05:52:37.000Z,🐍🎷,2020-08-20 06:00:00,-0.7614845037460327,0.0,0.0,0,0,0,0
+496,2020-08-20T05:11:06.000Z,GPT-3 sounds like Simon &amp; Garfunkel lyrics,2020-08-20 06:00:00,-0.998023509979248,0.0,0.3612,0,0,0,0
+497,2020-08-20T02:38:56.000Z,Bureaucracy is inherently kafkaesque,2020-08-20 03:00:00,0.8248552680015564,0.0,0.0,0,0,0,0
+498,2020-08-19T19:55:21.000Z,Medical check is A-ok! https://t.co/zTRMvQ6Wvx,2020-08-19 20:00:00,0.5780658721923828,0.0,0.0,0,0,0,0
+499,2020-08-19T19:47:48.000Z,He might run for President in 2024 https://t.co/Wo34fhKugu,2020-08-19 20:00:00,-0.6705382466316223,0.0,0.0,0,0,0,0
+500,2020-08-19T06:01:47.000Z,Elevator music is underrated,2020-08-19 07:00:00,0.7735936045646667,0.0,0.0,0,0,0,0
+501,2020-08-18T22:17:46.000Z,"Aloha, welcome back from space 💫 https://t.co/xWPN09Wtaw",2020-08-18 23:00:00,0.9980442523956299,0.4,0.4588,0,0,0,0
+502,2020-08-18T21:38:33.000Z,Fairing chute control &amp; ship control are closing the loop locally. Both operating on (SpaceX) autopilot.,2020-08-18 22:00:00,0.9911309480667114,0.0,0.0,0,0,0,0
+503,2020-08-18T21:36:31.000Z,Ms Tree catches fairing in her net https://t.co/sqlJ63NetB,2020-08-18 22:00:00,0.9756810665130615,0.0,0.0,0,0,0,0
+504,2020-08-17T23:00:50.000Z,Raptor engine just reached 330 bar chamber pressure without exploding! https://t.co/kVKRWksvaB,2020-08-18 00:00:00,-0.999763548374176,0.0,-0.2714,0,0,0,0
+505,2020-08-17T04:05:05.000Z,Cybertruck option package https://t.co/6Vz4XNoHf9,2020-08-17 05:00:00,0.9864209890365601,0.0,0.0,0,0,0,0
+506,2020-08-17T02:01:58.000Z,“Tanks 4 the memery” - panzer of the lake,2020-08-17 03:00:00,-0.899109423160553,0.0,0.0,0,0,0,0
+507,2020-08-17T01:56:52.000Z,Some big milestones coming up https://t.co/K3v3yddg6J,2020-08-17 02:00:00,0.9951767921447754,0.0,0.0,0,0,0,0
+508,2020-08-16T09:01:17.000Z,"Please trash me on Wikipedia, I’m begging you",2020-08-16 10:00:00,-0.795383632183075,0.0,0.3182,0,0,0,0
+509,2020-08-16T08:57:26.000Z,History is written by the victors … except on Wikipedia haha,2020-08-16 09:00:00,0.7306612730026245,0.2,0.4588,0,0,0,0
+510,2020-08-16T08:42:01.000Z,We must pass The Great Filter,2020-08-16 09:00:00,-0.540319561958313,0.8,0.6249,0,0,0,0
+511,2020-08-16T07:38:57.000Z,Sounds right https://t.co/dm76FJq3hX,2020-08-16 08:00:00,0.9980685114860535,0.2857142857142857,0.0,0,0,0,0
+512,2020-08-16T00:18:31.000Z,A truly useful exaflop at de facto FP32,2020-08-16 01:00:00,0.9975280165672302,0.3,0.7003,0,0,0,0
+513,2020-08-15T22:11:49.000Z,https://t.co/mDoPO17YB9 https://t.co/326rkUEYW8,2020-08-15 23:00:00,0.8534896969795227,0.0,0.0,0,0,0,0
+514,2020-08-15T19:17:50.000Z,"Our main engineering locations are Palo Alto, Austin &amp; Seattle, but working remotely is acceptable for exceptional candidates",2020-08-15 20:00:00,0.9905272722244263,0.24444444444444444,0.4497,0,0,0,0
+515,2020-08-14T22:40:49.000Z,Great mission patch design! https://t.co/p2Ic1crPef,2020-08-14 23:00:00,0.9978370070457458,1.0,0.6588,0,0,0,0
+516,2020-08-14T20:33:15.000Z,Tesla is developing a NN training computer called Dojo to process truly vast amounts of video data. It’s a beast! Please consider joining our AI or computer/chip teams if this sounds interesting.,2020-08-14 21:00:00,0.9978499412536621,0.25,0.8016,0,0,0,0
+517,2020-08-11T18:17:07.000Z,SN7 will be new alloy test tank taken to burst pressure. SN8 will have body flaps &amp; nosecone.,2020-08-11 19:00:00,0.6855260133743286,0.13636363636363635,-0.296,0,0,0,0
+518,2020-08-11T18:15:25.000Z,SN 5 &amp; 6 at Starship Production Complex in Texas https://t.co/8BVRD5VdU7,2020-08-11 19:00:00,0.5981266498565674,-0.3,0.0,0,0,0,0
+519,2020-08-07T17:12:08.000Z,Good piece on Giga Berlin construction https://t.co/pA8sgEpV9Y,2020-08-07 18:00:00,0.9990594983100891,0.7,0.4404,0,0,0,0
+520,2020-08-06T22:39:35.000Z,SN5 https://t.co/GlZ28KFVHU,2020-08-06 23:00:00,-0.5305038690567017,0.0,0.0,0,0,0,0
+521,2020-08-02T22:45:07.000Z,"When space travel becomes as common as air travel, the future of civilization will be assured",2020-08-02 23:00:00,0.9980555772781372,-0.15,0.3612,0,0,0,0
+522,2020-08-02T20:27:25.000Z,Congratulations @SpaceX &amp; @NASA on completing first crewed Dragon flight!! 🇺🇸 returned.,2020-08-02 21:00:00,0.8874818682670593,0.390625,0.6688,0,0,0,0
+523,2020-08-02T18:51:04.000Z,Dragon is stable in the water,2020-08-02 19:00:00,0.8620893955230713,0.0,0.296,0,0,0,0
+524,2020-08-02T18:37:24.000Z,Acquisition of signal expected in 5 mins,2020-08-02 19:00:00,0.9552434682846069,-0.1,0.0,0,0,0,0
+525,2020-08-02T18:31:53.000Z,4 mins to Dragon loss of signal due to atmospheric entry plasma,2020-08-02 19:00:00,-0.9996829032897949,-0.0625,-0.3182,0,0,0,0
+526,2020-08-02T18:11:01.000Z,Dragon will travel from south of New Zealand to Florida in ~37 minutes,2020-08-02 19:00:00,0.9935964345932007,0.13636363636363635,0.0,0,0,0,0
+527,2020-08-02T17:19:04.000Z,Coming in hot https://t.co/dzFr5BNBfF,2020-08-02 18:00:00,-0.8995090126991272,0.25,0.0,0,0,0,0
+528,2020-08-02T16:55:30.000Z,Astronauts land in 2 hours @NASA @SpaceX,2020-08-02 17:00:00,0.9304206967353821,0.0,0.0,0,0,0,0
+529,2020-08-01T06:47:18.000Z,🧙‍♂️ https://t.co/xxvcWMrTwS,2020-08-01 07:00:00,0.8831332325935364,0.0,0.0,0,0,0,0
+530,2020-08-01T03:51:54.000Z,This BBC article provides a sensible summary for how it was done https://t.co/le3r20BWID,2020-08-01 04:00:00,-0.9325396418571472,0.0,0.0,0,0,0,0
+531,2020-07-31T14:54:07.000Z,"The Great Pyramid was the tallest structure made by humans for 3800 years. Three thousand, eight hundred years.  https://t.co/6DU46eMbni",2020-07-31 15:00:00,0.9021211266517639,0.8,0.6249,0,0,0,0
+532,2020-07-31T04:17:16.000Z,Ramses II was 😎,2020-07-31 05:00:00,-0.9998811483383179,0.0,0.0,0,0,0,0
+533,2020-07-31T04:14:32.000Z,Aliens built the pyramids obv,2020-07-31 05:00:00,-0.8935527801513672,0.0,0.0,0,0,0,0
+534,2020-07-30T20:31:50.000Z,https://t.co/8lpvwbeC4R,2020-07-30 21:00:00,0.744273841381073,0.0,0.0,0,0,0,0
+535,2020-07-30T20:05:05.000Z,Starship SN5 just completed full duration static fire. 150m hop soon.,2020-07-30 21:00:00,-0.572636604309082,0.425,-0.34,0,0,0,0
+536,2020-07-30T19:52:29.000Z,🖤🧛‍♀️Total Eclipse of the Heart 🧛‍♀️🖤 https://t.co/n8djdlKnbE,2020-07-30 20:00:00,0.9997676014900208,0.0,0.0,0,0,0,0
+537,2020-07-30T08:54:55.000Z,"But sometimes when we touch …
+https://t.co/KMassjCtIx",2020-07-30 09:00:00,0.8956671357154846,0.0,0.0,0,0,0,0
+538,2020-07-30T08:19:44.000Z,"Losing It
+https://t.co/9HOY0ldzg4",2020-07-30 09:00:00,-0.993738055229187,0.0,-0.3818,0,0,0,0
+539,2020-07-30T07:53:58.000Z,"Sure could use a good rave
+What’s your favorite techno",2020-07-30 08:00:00,0.9646891355514526,0.5666666666666667,0.802,0,0,0,0
+540,2020-07-30T07:12:22.000Z,I … I just died in your arms tonight,2020-07-30 08:00:00,0.7683129906654358,0.0,-0.5574,0,0,0,0
+541,2020-07-30T06:55:03.000Z,The rumor that Bill Gates &amp; I are lovers is completely untrue,2020-07-30 07:00:00,-0.8154511451721191,0.1,0.5267,0,0,0,0
+542,2020-07-27T18:57:05.000Z,Das Kapital in a nutshell https://t.co/mG44mMkitx,2020-07-27 19:00:00,-0.9723833203315735,0.0,0.0,0,0,0,0
+543,2020-07-27T18:32:18.000Z,The left is losing the middle,2020-07-27 19:00:00,-0.9962401390075684,0.0,-0.3818,0,0,0,0
+544,2020-07-27T17:05:14.000Z,Hold my beer https://t.co/IK3tT1x4wP,2020-07-27 18:00:00,0.9971150159835815,0.0,0.0,0,0,0,0
+545,2020-07-27T03:40:56.000Z,Almost a decade ago. Original Dragon in background.,2020-07-27 04:00:00,0.9997984766960144,0.375,0.2585,0,0,0,0
+546,2020-07-27T03:16:48.000Z,https://t.co/Ufay65lZJj,2020-07-27 04:00:00,0.5433892607688904,0.0,0.0,0,0,0,0
+547,2020-07-27T02:41:32.000Z,"Great song
+https://t.co/wj4YdJglSH",2020-07-27 03:00:00,0.9916523098945618,0.8,0.6249,0,0,0,0
+548,2020-07-25T21:40:42.000Z,Cool Model 3 review by @iamjamiefoxx https://t.co/hJDD7BjkE3,2020-07-25 22:00:00,0.9889412522315979,0.35,0.3182,0,0,0,0
+549,2020-07-25T03:42:29.000Z,Pronouns suck,2020-07-25 04:00:00,-0.9996540546417236,0.0,-0.4404,0,0,0,0
+550,2020-07-24T22:31:07.000Z,I bet no one on 🌹 Twitter even *has* a guillotine! Poseurs …,2020-07-24 23:00:00,-0.9949303269386292,0.0,-0.3595,0,0,0,0
+551,2020-07-24T16:21:01.000Z,🌹 Twitter sucks,2020-07-24 17:00:00,-0.9998365640640259,-0.3,-0.3612,0,0,0,0
+552,2020-07-24T15:01:39.000Z,"These are jammed to gills with special interests earmarks. If we do a stimulus at all, it should just be direct payments to consumers.",2020-07-24 16:00:00,-0.9996811151504517,0.11904761904761903,0.5719,0,0,0,0
+553,2020-07-24T14:53:54.000Z,"Goal of government should be to maximize the happiness of the people. Giving each person money allows them to decide what meets their needs, rather than the blunt tool of legislation, which creates self-serving special interests.",2020-07-24 15:00:00,0.9986351132392883,0.5285714285714286,0.8957,0,0,0,0
+554,2020-07-24T14:50:53.000Z,"As a reminder, I’m in *favor* of universal basic income",2020-07-24 15:00:00,-0.6734482049942017,0.0,0.0,0,0,0,0
+555,2020-07-24T14:44:46.000Z,Another government stimulus package is not in the best interests of the people imo,2020-07-24 15:00:00,-0.9995207786560059,1.0,-0.3331,0,0,0,0
+556,2020-07-24T14:39:07.000Z,"Tesla solar panels are $1.49/Watt 
+https://t.co/5LpLhqgAzw",2020-07-24 15:00:00,-0.8190635442733765,0.0,0.0,0,0,0,0
+557,2020-07-23T07:59:54.000Z,Impressive Tianwen-1 Mars rover mission launched by China today https://t.co/FsyA3I0HrU,2020-07-23 08:00:00,0.9835335612297058,1.0,0.5859,0,0,0,0
+558,2020-07-22T06:53:20.000Z,"You don’t have a soul, you are a soul",2020-07-22 07:00:00,0.9820296168327332,0.0,0.0,0,0,0,0
+559,2020-07-22T06:42:32.000Z,2 minutes later … https://t.co/o5fbBTan1S,2020-07-22 07:00:00,-0.8883751630783081,0.0,0.0,0,0,0,0
+560,2020-07-22T06:10:48.000Z,Coming soon https://t.co/6nOgLix6b5,2020-07-22 07:00:00,0.8123761415481567,0.0,0.0,0,0,0,0
+561,2020-07-22T05:45:35.000Z,Where are the memes? Send in … the memes …,2020-07-22 06:00:00,-0.974250078201294,0.0,0.0,0,0,0,0
+562,2020-07-22T05:40:32.000Z,Nothing has gaslit more people than the movie Gaslight,2020-07-22 06:00:00,-0.994674801826477,0.5,0.0,0,0,0,0
+563,2020-07-21T04:58:13.000Z,Das baby kann noch keinen löffel benutzen https://t.co/UETqVIA4BP,2020-07-21 05:00:00,0.7205719351768494,0.0,0.0,0,0,0,0
+564,2020-07-20T22:19:33.000Z,Both fairing halves caught from space by @SpaceX ships!,2020-07-20 23:00:00,-0.9966944456100464,0.0,0.0,0,0,0,0
+565,2020-07-20T21:11:56.000Z,Launch in 20 mins https://t.co/1oLtPnW929,2020-07-20 22:00:00,0.9893718361854553,0.0,0.0,0,0,0,0
+566,2020-07-19T00:11:35.000Z,This would solve a lot of brain/spine injuries &amp; is ultimately essential for AI symbiosis,2020-07-19 01:00:00,0.9983903169631958,0.0,0.2023,0,0,0,0
+567,2020-07-18T02:03:56.000Z,"Solving high-volume, high-reliability, low-cost production problems is especially valued",2020-07-18 03:00:00,0.9995747208595276,0.0,0.4391,0,0,0,0
+568,2020-07-18T01:59:21.000Z,"If you’ve solved hard problems with phones / wearables (sealing, signal processing, inductive charging, power mgmt, etc), please consider working at engineering@neuralink.com",2020-07-18 02:00:00,0.6407462954521179,-0.2916666666666667,0.0772,0,0,0,0
+569,2020-07-18T00:58:55.000Z,It’s inevitable https://t.co/eBKnQm6QyF dogecoin taking over global financial system,2020-07-18 01:00:00,-0.9883423447608948,0.0,0.0,0,0,0,1
+570,2020-07-18T00:52:19.000Z,Will those who write the algorithms ever realize their negativity bias?,2020-07-18 01:00:00,-0.9154508113861084,0.0,-0.5719,0,0,0,0
+571,2020-07-18T00:02:23.000Z,Thanks,2020-07-18 01:00:00,0.9708917737007141,0.2,0.4404,0,0,0,0
+572,2020-07-17T23:18:15.000Z,Just stop,2020-07-18 00:00:00,-0.852918803691864,0.0,-0.296,0,0,0,0
+573,2020-07-15T05:39:52.000Z,Giga Berlin https://t.co/UXQMUVTWXf,2020-07-15 06:00:00,0.9247100353240967,0.0,0.0,0,0,0,0
+574,2020-07-11T07:29:42.000Z,https://t.co/1MQXFAKPzf,2020-07-11 08:00:00,0.6943324208259583,0.0,0.0,0,0,0,0
+575,2020-07-10T22:58:14.000Z,"I spoke with Korolev’s family today.
+He was one of the very best.
+Корольов / Королёв.",2020-07-10 23:00:00,0.9993552565574646,1.0,0.6697,0,0,0,0
+576,2020-07-10T09:31:35.000Z,"Wow, IHOP &amp; GitHub are close",2020-07-10 10:00:00,0.9844896793365479,0.1,0.5859,0,0,0,0
+577,2020-07-10T09:26:26.000Z,Best use of the term “Full Stack”?,2020-07-10 10:00:00,-0.8192762732505798,0.675,0.6369,0,0,0,0
+578,2020-07-10T04:25:45.000Z,AI symbiosis while u wait,2020-07-10 05:00:00,-0.9983553290367126,0.0,0.0,0,0,0,0
+579,2020-07-09T07:08:51.000Z,Progress update August 28,2020-07-09 08:00:00,-0.8357265591621399,0.0,0.4215,0,0,0,0
+580,2020-07-09T07:01:44.000Z,"If you can’t beat em, join em
+Neuralink mission statement",2020-07-09 08:00:00,0.9978166818618774,0.0,0.296,0,0,0,0
+581,2020-07-05T20:33:10.000Z,Read The Story of Civilization by Will &amp; Ariel Durant,2020-07-05 21:00:00,0.9991344809532166,0.0,0.0,0,0,0,0
+582,2020-07-05T20:04:27.000Z,"Dang, we broke the website",2020-07-05 21:00:00,-0.9999349117279053,0.0,-0.4215,0,0,0,0
+583,2020-07-05T20:02:44.000Z,Only $69.420!!,2020-07-05 21:00:00,-0.9458609223365784,0.0,0.0,0,0,0,0
+584,2020-07-05T20:01:08.000Z,Limited edition short shorts now available at https://t.co/5EmNcTBvJv,2020-07-05 21:00:00,0.7839758992195129,0.10952380952380954,-0.2263,0,0,0,0
+585,2020-07-05T06:16:45.000Z,Beautiful fireworks in LA tonight,2020-07-05 07:00:00,0.9992782473564148,0.85,0.5994,0,0,0,0
+586,2020-07-05T03:18:16.000Z,"North American Supercharger usage is now at pre-covid high, Europe about a week behind, China &amp; Asia-Pacific in general doing great https://t.co/bRd0egaC1t",2020-07-05 04:00:00,0.9115604758262634,0.12200000000000003,0.6249,0,0,0,0
+587,2020-07-05T01:20:09.000Z,https://t.co/jAmuz6NaA4,2020-07-05 02:00:00,-0.6488574743270874,0.0,0.0,0,0,0,0
+588,2020-07-04T17:47:29.000Z,Please take a moment to report accounts clearly engaged in harassment. It is the only way to maintain public discourse.,2020-07-04 18:00:00,-0.9938690066337585,0.03333333333333334,0.4939,0,0,0,0
+589,2020-07-04T17:44:43.000Z,🇺🇸🇺🇸 Happy 4th of July!! 🇺🇸🇺🇸,2020-07-04 18:00:00,0.9992024302482605,1.0,0.6467,0,0,0,0
+590,2020-07-04T04:46:58.000Z,Congrats Tesla Team — U ROK!! https://t.co/lW7Ist98IY,2020-07-04 05:00:00,0.9798011779785156,0.0,0.6103,0,0,0,0
+591,2020-07-02T20:06:28.000Z,Thanks Tesla owners &amp; investors! Love you!! We will work super hard to earn your trust &amp; support. https://t.co/6mgcmlLTsA,2020-07-02 21:00:00,0.9941287040710449,0.26822916666666663,0.955,0,0,0,0
+592,2020-07-02T18:57:26.000Z,"SEC, three letter acronym, middle word is Elon’s",2020-07-02 19:00:00,-0.8531613945960999,-0.05,0.0,0,0,0,0
+593,2020-07-02T18:50:12.000Z,Will send some to the Shortseller Enrichment Commission to comfort them through these difficult times,2020-07-02 19:00:00,0.9726711511611938,-0.5,0.0,0,0,0,0
+594,2020-07-02T18:40:47.000Z,Tesla will make fabulous short shorts in radiant red satin with gold trim,2020-07-02 19:00:00,0.9998388290405273,0.13333333333333333,0.7579,0,0,0,0
+595,2020-07-02T18:24:57.000Z,Who wears short shorts? 🤣🤣,2020-07-02 19:00:00,0.5002809166908264,0.0,0.0,0,0,0,0
+596,2020-07-01T19:30:36.000Z,"Tesla Impact Report (repost). We do everything humanly possible to source materials &amp; produce sustainable energy cars, batteries &amp; solar ethically. Suggestions for improvement are always appreciated.
+
+https://t.co/WCemMJ44um",2020-07-01 20:00:00,0.9549660682678223,0.13333333333333333,0.8126,0,0,0,0
+597,2020-06-30T21:56:52.000Z,Your GPS just got slightly better https://t.co/XsblUsiNXU,2020-06-30 22:00:00,-0.9727596044540405,0.5,0.3832,0,0,0,0
+598,2020-06-28T23:39:41.000Z,"Btw, Tesla actually receives *least* subsidies of any automaker in US. Federal tax credit applies to other automaker EVs, but no longer Tesla.",2020-06-29 00:00:00,-0.998035728931427,-0.14166666666666666,-0.25,0,0,0,0
+599,2020-06-28T23:35:42.000Z,Great Model Y review by @jayleno https://t.co/DzsZ7eugWp,2020-06-29 00:00:00,0.97691810131073,0.8,0.6249,0,0,0,0
+600,2020-06-28T21:54:51.000Z,69 days after 4/20 again haha,2020-06-28 22:00:00,-0.9493939876556396,0.2,0.4588,0,0,0,0
+601,2020-06-26T17:28:53.000Z,.@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG,2020-06-26 18:00:00,-0.9884372353553772,0.2,0.4588,0,0,0,0
+602,2020-06-26T07:35:57.000Z,"Who controls the memes,
+controls the Universe",2020-06-26 08:00:00,0.9998576641082764,0.0,0.0,0,0,0,0
+603,2020-06-26T06:05:19.000Z,https://t.co/e9dPKVSjjl,2020-06-26 07:00:00,0.9557971358299255,0.0,0.0,0,0,0,0
+604,2020-06-26T06:03:42.000Z,Literally,2020-06-26 07:00:00,0.9724273085594177,0.0,0.0,0,0,0,0
+605,2020-06-26T05:57:58.000Z,Only a matter of time before someone steals a Tesla while playing GTA on a Tesla,2020-06-26 06:00:00,-0.967574954032898,0.0,-0.34,0,0,0,0
+606,2020-06-26T05:25:09.000Z,North American Supercharger usage tracking to exceed pre covid highs in 2 to 3 weeks. Lot of noise out there. This is signal. https://t.co/PCC5DlthtA,2020-06-26 06:00:00,-0.9994956254959106,0.0,0.0,0,0,0,0
+607,2020-06-25T07:43:07.000Z,Two Starship tanks in the midbay https://t.co/QJ2V882WOC,2020-06-25 08:00:00,-0.9961918592453003,0.0,0.0,0,0,0,0
+608,2020-06-25T02:57:55.000Z,Special thanks to Tesla trucking &amp; rail partners for figuratively &amp; literally going the extra mile,2020-06-25 03:00:00,0.9998325109481812,0.18571428571428572,0.6808,0,0,0,0
+609,2020-06-25T02:56:12.000Z,Apologies to Tesla customers for shifting delivery dates. It’s a crazy world out there!,2020-06-25 03:00:00,-0.9638770818710327,-0.75,-0.4003,0,0,0,0
+610,2020-06-22T03:11:02.000Z,Tentative date for Tesla Shareholder Meeting &amp; Battery Day is Sept 15. Will include tour of cell production system.,2020-06-22 04:00:00,0.5700697302818298,0.0,0.0,0,0,0,0
+611,2020-06-22T03:05:26.000Z,Reminder that Tesla Full Self-Driving (FSD) price goes up by $1k on July 1st,2020-06-22 04:00:00,-0.9997361302375793,0.35,0.0,0,0,0,0
+612,2020-06-22T03:04:26.000Z,Enabling basic Tesla Autopilot via Tesla in-app purchase is reduced to $2k until July 1,2020-06-22 04:00:00,-0.997908353805542,0.0,0.0,0,0,0,0
+613,2020-06-21T15:27:16.000Z,2019 seems so quaint &amp; long ago https://t.co/xfdfcbr0DS,2020-06-21 16:00:00,0.9320278167724609,-0.05,0.0,0,0,0,0
+614,2020-06-21T08:29:04.000Z,That is our purpose,2020-06-21 09:00:00,0.9872120022773743,0.0,0.0,0,0,0,0
+615,2020-06-21T08:13:05.000Z,"Tesla Bioweapon Defense Mode
+https://t.co/48s5D3ZQO0",2020-06-21 09:00:00,0.9837270975112915,0.0,0.128,0,0,0,0
+616,2020-06-21T08:07:42.000Z,We must pass The Great Filter,2020-06-21 09:00:00,-0.540319561958313,0.8,0.6249,0,0,0,0
+617,2020-06-21T07:03:08.000Z,Mars is my souldog,2020-06-21 08:00:00,0.9995753169059753,0.0,0.0,0,0,0,1
+618,2020-06-21T06:19:41.000Z,"If heat death is the end of the universe, it really is all about the journey",2020-06-21 07:00:00,-0.6504024267196655,0.2,-0.5994,0,0,0,0
+619,2020-06-19T17:06:03.000Z,Juneteenth is henceforth considered a US holiday at Tesla &amp; SpaceX,2020-06-19 18:00:00,0.9968984127044678,0.0,0.4019,0,0,0,0
+620,2020-06-16T19:20:04.000Z,"SpaceX is building floating, superheavy-class spaceports for Mars, moon &amp; hypersonic travel around Earth https://t.co/zLJjz43hKw",2020-06-16 20:00:00,0.9966450333595276,0.0,0.0,0,0,0,0
+621,2020-06-16T02:07:13.000Z,All Model S cars made since late Jan have 402 mile range. This is just making it official.,2020-06-16 03:00:00,0.9868179559707642,-0.3,0.0,0,0,0,0
+622,2020-06-15T23:53:26.000Z,Tesla Model S now first ever electric vehicle to receive EPA range rating above 400 miles! https://t.co/EOTwVfvHS5,2020-06-16 00:00:00,0.9825087785720825,0.125,0.0,0,0,0,0
+623,2020-06-15T23:36:49.000Z,China &amp; Asia Pacific Supercharger usage above pre-covid highs. North America catching up fast. Europe slightly behind. https://t.co/Em23E2AFyO,2020-06-16 00:00:00,0.9818553924560547,0.1,0.0,0,0,0,0
+624,2020-06-11T09:49:26.000Z,lol,2020-06-11 10:00:00,0.7373926639556885,0.8,0.4215,0,0,0,0
+625,2020-06-10T22:22:01.000Z,Catapults are a great way to get somewhere fast https://t.co/npr4bGBDYw,2020-06-10 23:00:00,0.9801223278045654,0.5,0.6249,0,0,0,0
+626,2020-06-10T19:06:53.000Z,Tesla factory workplace safety is 5% better than industry average for manufacturers &amp; improving fast https://t.co/axmInA9fZb,2020-06-10 20:00:00,0.9683246612548828,0.18333333333333335,0.8176,0,0,0,0
+627,2020-06-10T18:28:56.000Z,After which they are recycled https://t.co/xuu1ohdz52,2020-06-10 19:00:00,-0.9991152882575989,0.0,0.0,0,0,0,0
+628,2020-06-10T18:26:00.000Z,Tesla batteries are lasting much longer than 200k miles / 320k km https://t.co/z882nf6yv9,2020-06-10 19:00:00,0.9980394244194031,0.1,0.0,0,0,0,0
+629,2020-06-10T18:22:29.000Z,"Moreover, energy produced by Tesla solar deployments far exceeds energy used in our factories https://t.co/IDqf5gWeFt",2020-06-10 19:00:00,0.897085964679718,0.1,0.4939,0,0,0,0
+630,2020-06-10T18:21:05.000Z,"Electric cars produce *much* less CO2 than fossil fuel cars, taking both electricity emission &amp; vehicle production into acount https://t.co/tsk9TXgW67",2020-06-10 19:00:00,-0.6810381412506104,-0.16666666666666666,0.0,0,0,0,0
+631,2020-06-10T18:07:52.000Z,https://t.co/QPwGa1Rk8Z,2020-06-10 19:00:00,0.8829152584075928,0.0,0.0,0,0,0,0
+632,2020-06-10T18:07:22.000Z,"Posting Tesla Impact Report, this time with summary points &amp; charts in my reply tweets https://t.co/4lyaV7kIS4",2020-06-10 19:00:00,-0.5369288921356201,0.0,0.0,0,0,0,0
+633,2020-06-10T14:15:45.000Z,"Wort reading the whole thing
+https://t.co/4lyaV7kIS4",2020-06-10 15:00:00,-0.9908201098442078,0.2,0.0,0,0,0,0
