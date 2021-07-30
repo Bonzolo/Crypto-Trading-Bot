@@ -1,4 +1,5 @@
 # Crypto-Trading-Bot
+Project is currently a work in progress
 
 # Outline of the  Trading Bot
 
